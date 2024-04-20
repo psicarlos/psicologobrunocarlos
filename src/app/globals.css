@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+.slider-container {
+  max-width: 95vw; /* Largura máxima do slider */
+  margin: 0 auto; /* Centraliza o slider na página */
+}
+
+@media (max-width: 512px) {
+  .slider-container {
+    max-width: 78vw; /* Largura máxima do slider */
+    margin: 0 auto; /* Centraliza o slider na página */
+  }
+}
+
+.slide-item {
+  width: 100%; /* Define a largura dos slides */
+}
