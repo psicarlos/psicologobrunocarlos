@@ -7,7 +7,7 @@ const About = () => {
     <section className="py-24 px-4 md:px-0 md:max-w-6xl md:mx-auto">
       <div className=" flex flex-col md:grid md:grid-cols-2 gap-8">
         <div className="flex flex-col gap-4">
-          <p className="text-4xl">OLÁ!</p>
+          <p className="text-4xl font-bold">OLÁ!</p>
           <p>
             Aqui quem fala é o Psicólogo Bruno Carlos, trabalho especialmente
             com o foco em atendimento clínico para casais e adultos com demandas

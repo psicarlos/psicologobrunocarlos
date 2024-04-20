@@ -8,7 +8,7 @@ import Tiktok from '../icons/Tiktok';
 const Rodape = () => {
   return (
     <div className="flex flex-col w-full md:px-6 md:pb-8 items-center justify-between">
-      <div className="flex flex-col w-full md:grid md:grid-cols-2">
+      <div className="flex flex-col w-full md:grid md:grid-cols-2 gap-8">
         <div className="flex flex-col md:flex-row justify-center">
           <div className="footer-info">
             <h3 className=" text-2xl text-center px-1">
@@ -19,14 +19,14 @@ const Rodape = () => {
               <a
                 href="https://www.tiktok.com/@psicologobrunocarlos?_t=8ldZoIxRJsE&_r=1"
                 target="_blank"
-                className="tiktok"
+                className="tiktok hover:scale-125 duration-300"
               >
                 <Tiktok />
               </a>
 
               <a
                 href="https://wa.me/5544991269022?text=Ola!%20Gostaria%20de%20marcar%20um%20atendimento."
-                className="whatsapp"
+                className="whatsapp hover:scale-125 duration-300"
                 target="_blank"
               >
                 <Whatsapp />
@@ -35,7 +35,7 @@ const Rodape = () => {
               <a
                 href="https://www.instagram.com/psicologobrunocarlos/"
                 target="_blank"
-                className="instagram"
+                className="instagram hover:scale-125 duration-300"
               >
                 <Instagram />
               </a>
@@ -43,7 +43,7 @@ const Rodape = () => {
               <a
                 href="https://www.youtube.com/channel/UC1ExqJlPyZFRnxlORU-9C5w"
                 target="_blank"
-                className="youtube"
+                className="youtube hover:scale-125 duration-300"
               >
                 <Youtube />
               </a>
@@ -64,7 +64,7 @@ const Rodape = () => {
       </div>
 
       <div className="flex flex-col gap-2">
-        <div className="">
+        <div className="text-center">
           &copy; Copyright{' '}
           <strong>
             <span>Psicólogo Bruno Carlos</span>
@@ -72,7 +72,7 @@ const Rodape = () => {
           . Todos os direitos reservados.
         </div>
 
-        <div className=" text-sm italic text-center text-colorDetails">
+        <div className=" text-sm italic text-center text-colorDetails pb-4">
           Criado por <a href="https://pablosantos.dev">Pablo Santos</a>
         </div>
       </div>

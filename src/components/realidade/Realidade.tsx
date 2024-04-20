@@ -10,7 +10,7 @@ const Realidade = () => {
   return (
     <section className="py-24 px-4 md:px-0 md:max-w-6xl md:mx-auto bg-[#141A1B] md:px-24 rounded-3xl">
       <h2 className="text-3xl font-bold mb-6 text-center text-colorDetails">
-        Bringas intermináveis, distanciamento, frieza no relacionamento e na
+        Brigas intermináveis, distanciamento, frieza no relacionamento e na
         cama…
       </h2>
       <p className="mb-12 text-center">
