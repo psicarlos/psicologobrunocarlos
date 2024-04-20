@@ -14,11 +14,11 @@ const Ambiente = () => {
       </h2>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
-        <div className="bg-bgPicture rounded-xl">
+        <div className=" bg-transparent rounded-xl">
           <div>
             <Image
               alt="Estacionamento"
-              className="mb-4"
+              className=""
               width={380}
               height={200}
               src={Estacionamento}
@@ -28,14 +28,16 @@ const Ambiente = () => {
               }}
               priority
             />
-            <p className="font-bold mb-2 text-center">Estacionamento</p>
+            <p className="font-bold mb-2 text-center bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-stone-700 via-sky-900 to-green-600 border-colorDetails border-2 py-2 rounded-b-xl">
+              Estacionamento
+            </p>
           </div>
         </div>
-        <div className=" bg-bgPicture rounded-xl">
+        <div className=" bg-transparent rounded-xl">
           <div>
             <Image
               alt="Estacionamento"
-              className="mb-4"
+              className=""
               width={380}
               height={200}
               src={Recepcao}
@@ -45,14 +47,16 @@ const Ambiente = () => {
               }}
               priority
             />
-            <p className="font-bold mb-2 text-center">Recepção</p>
+            <p className="font-bold mb-2 text-center bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-stone-700 via-sky-900 to-green-600 border-colorDetails border-2 py-2 rounded-b-xl">
+              Recepção
+            </p>
           </div>
         </div>
-        <div className=" bg-bgPicture rounded-xl">
+        <div className="bg-transparent rounded-xl">
           <div>
             <Image
               alt="Estacionamento"
-              className="mb-4"
+              className=""
               width={380}
               height={200}
               src={Atendimento1}
@@ -62,7 +66,9 @@ const Ambiente = () => {
               }}
               priority
             />
-            <p className="font-bold mb-2 text-center">Sala de Atendimento</p>
+            <p className="font-bold mb-2 text-center bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-stone-700 via-sky-900 to-green-600 border-colorDetails border-2 py-2 rounded-b-xl">
+              Sala de Atendimento
+            </p>
           </div>
         </div>
       </div>
