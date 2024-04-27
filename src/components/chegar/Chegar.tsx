@@ -5,7 +5,7 @@ import Uber from '../icons/Uber';
 
 const Chegar = () => {
   return (
-    <section className="py-24 px-4 md:px-0 md:w-full md:mx-auto">
+    <section className="py-12 px-4 md:py-24 md:px-0 md:w-full md:mx-auto">
       <h2 className="text-3xl font-bold mb-6 text-center">Como Chegar?</h2>
 
       <div className=" flex flex-row gap-8 justify-around">

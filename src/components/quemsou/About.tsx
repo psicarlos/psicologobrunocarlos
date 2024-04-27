@@ -4,9 +4,9 @@ import Bruno from '@/img/Bruno.png';
 
 const About = () => {
   return (
-    <section className="py-24 px-4 md:px-0 md:max-w-6xl md:mx-auto">
-      <div className=" flex flex-col md:grid md:grid-cols-2 gap-8">
-        <div className="flex flex-col gap-4">
+    <section className="py-12 px-4 md:py-24 md:px-0 md:max-w-6xl md:mx-auto">
+      <div className=" flex flex-col md:grid md:grid-cols-2 gap-8 ">
+        <div className="flex flex-col gap-4 justify-center">
           <p className="text-4xl font-bold">OLÁ!</p>
           <p>
             Aqui quem fala é o Psicólogo Bruno Carlos, trabalho especialmente

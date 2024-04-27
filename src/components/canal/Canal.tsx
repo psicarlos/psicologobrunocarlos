@@ -19,7 +19,7 @@ export default async function Canal() {
   const videos: YouTubeResponse = await getYouTubeVideos();
 
   return (
-    <section className="py-24 px-4 md:px-0 md:max-w-6xl md:mx-auto">
+    <section className="py-12 px-4 md:py-24 md:px-0 md:max-w-6xl md:mx-auto">
       <h2 className="text-3xl font-bold mb-6 text-center">
         ME ACOMPANHE TAMBÉM PELO YOUTUBE:
       </h2>

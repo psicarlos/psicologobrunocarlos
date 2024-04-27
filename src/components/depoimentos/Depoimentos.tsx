@@ -4,7 +4,7 @@ import CardDepoimento from './CardDepoimento';
 
 const Depoimentos = () => {
   return (
-    <section className="relative py-24 px-4 w-full md:px-0 md:mx-auto bg-heroDepoiments bg-cover rounded-[3rem]">
+    <section className="relative py-10 px-4 w-full md:px-0 md:mx-auto bg-heroDepoiments bg-cover rounded-[3rem]">
       <div className="absolute inset-0 bg-black opacity-80 rounded-[3rem]" />
 
       <h2 className="text-3xl font-bold mb-6 text-center relative z-10">
