@@ -20,9 +20,9 @@ const About = () => {
             psicoterapia.
           </p>
         </div>
-        <div className="flex flex-col">
+        <div className="flex flex-col gap-3">
           <Image
-            className=" rounded-full m-auto"
+            className=" rounded-full m-auto shadow-shadowOne md:shadow-shadowTow"
             src={Bruno}
             alt="Psicólogo Bruno Carlos"
             width={380}

@@ -33,6 +33,7 @@ const config: Config = {
         bgFundo: '#040013',
       },
       boxShadow: {
+        shadowOne: '0px 0px 15px 2px #cfcfcf, 0px 0px 15px 2px #cfcfcf',
         shadowTow: '-10px 15px 15px -10px #cfcfcf, 3px 3px 10px -6px #cfcfcf',
       },
     },

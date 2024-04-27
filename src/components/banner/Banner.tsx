@@ -18,7 +18,7 @@ const Banner = () => {
             </div>
             <div className="md:w-1/2">
               <Image
-                className=" rounded-full m-auto shadow-shadowTow"
+                className=" rounded-full m-auto shadow-shadowOne md:shadow-shadowTow"
                 src={Bruno}
                 alt="Psicólogo Bruno Carlos"
                 width={320}
