@@ -8,6 +8,16 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
+import Depo1 from '@/img/depoimentos/depo1.jpg';
+import Depo2 from '@/img/depoimentos/depo2.jpg';
+import Depo3 from '@/img/depoimentos/depo3.jpg';
+import Depo4 from '@/img/depoimentos/depo4.jpg';
+import Depo5 from '@/img/depoimentos/depo5.jpg';
+import Depo6 from '@/img/depoimentos/depo6.jpg';
+import Depo7 from '@/img/depoimentos/depo7.jpg';
+import Depo8 from '@/img/depoimentos/depo8.jpg';
+import Depo9 from '@/img/depoimentos/depo9.jpg';
+import Depo10 from '@/img/depoimentos/depo10.jpg';
 import Depoimento1 from '@/img/depoimentos/depoimento1.jpg';
 import Depoimento2 from '@/img/depoimentos/depoimento2.jpg';
 import Depoimento3 from '@/img/depoimentos/depoimento3.jpg';
@@ -41,6 +51,36 @@ function SlideDepoiments() {
   return (
     <div className="slider-container justify-center align-middle items-center">
       <Slider {...settings}>
+        <div className="slide-item">
+          <Image src={Depo1} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo2} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo3} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo4} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo5} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo6} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo7} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo8} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo9} alt="depoimento dos clientes" className=" px-2" />
+        </div>
+        <div className="slide-item">
+          <Image src={Depo10} alt="depoimento dos clientes" className=" px-2" />
+        </div>
         <div className="slide-item">
           <Image
             src={Depoimento1}
@@ -107,10 +147,10 @@ export default SlideDepoiments;
 //     <Slider {...settings}>
 
 //       {/* <div className="flex flex-row w-[350px] h-[250px]">
-//         <Image src={Depoimento1} width={350} height={250} />
+//         <Image src={Depo1} width={350} height={250} />
 //       </div>
 //       <div className="flex flex-row w-[350px] h-[250px]">
-//         <Image src={Depoimento1} width={350} height={250} />
+//         <Image src={Depo1} width={350} height={250} />
 //       </div>
 //       <div className="flex flex-row w-[350px] h-[250px]">
 //         <Image src={Depoimento1} width={350} height={250} />

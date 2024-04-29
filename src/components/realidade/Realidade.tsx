@@ -8,7 +8,7 @@ import Pensamentos from '../icons/Pensamentos';
 
 const Realidade = () => {
   return (
-    <section className="py-24 px-4 md:px-0 md:max-w-6xl md:mx-auto bg-[#141A1B] md:px-24 rounded-3xl">
+    <section className="py-24 px-4  md:max-w-6xl md:mx-auto bg-[#141A1B] md:px-24 rounded-3xl">
       <h2 className="text-3xl font-bold mb-6 text-center text-colorDetails">
         Brigas intermináveis, distanciamento, frieza no relacionamento e na
         cama…
