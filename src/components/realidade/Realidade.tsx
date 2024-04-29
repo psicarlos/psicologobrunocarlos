@@ -13,7 +13,7 @@ const Realidade = () => {
         Brigas intermináveis, distanciamento, frieza no relacionamento e na
         cama…
       </h2>
-      <p className="mb-12 text-center">
+      <p className="mb-12 text-center text-lg">
         Se eu acabei de descrever o seu casamento, é muito provável que você
         esta passando por:
       </p>

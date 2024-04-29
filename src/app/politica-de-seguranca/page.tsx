@@ -53,41 +53,6 @@ const Page = () => {
                 </p>
 
                 <ol className="privacy-policy">
-                  <li className="font-semibold">COLETA DE DADOS</li>
-                  <p>
-                    Coletamos dados pessoais fornecidos voluntariamente pelos
-                    usuários ao preencher formulários ou ao fazer login em áreas
-                    restritas do site.
-                  </p>
-                  <p>Os dados coletados incluem, mas não estão limitados a:</p>
-                  <ul>
-                    <li>Nome</li>
-                    <li>E-mail</li>
-                    <li>Telefone</li>
-                    <li>Endereço</li>
-                    <li>CPF/CNPJ</li>
-                    <li>Interesses pessoais</li>
-                  </ul>
-                  <p>
-                    Os dados são coletados com base nos interesses e
-                    necessidades do usuário em relação ao nosso conteúdo, sendo
-                    assim necessários para a execução de contrato ou prestação
-                    de serviço. Ao fornecer essas informações, você consente com
-                    a coleta e uso conforme descrito nesta política.
-                  </p>
-                  {/* POLITICA 2 */}
-                  <li className="font-semibold">COMO ARMAZENAMOS OS DADOS</li>
-                  <p>
-                    Seus dados são armazenados de forma segura em nossa base de
-                    dados e serão utilizados apenas para os fins para os quais
-                    foram coletados.
-                  </p>
-                  <p>
-                    O usuário pode solicitar a exclusão dos seus dados a
-                    qualquer momento, desde que não haja obrigações legais de
-                    manutenção, como para fins de faturamento, garantia, entre
-                    outros.
-                  </p>
                   {/* POLITICA 3 */}
                   <li className="font-semibold">COOKIES E BEACONS</li>
                   <p>
@@ -173,11 +138,7 @@ const Page = () => {
                       mediante solicitação expressa.
                     </li>
                   </ul>
-                  <p>
-                    Você também pode se opor ao uso dos seus dados pessoais para
-                    fins de marketing, enviando um e-mail para
-                    contato@exemplo.com.br.
-                  </p>
+
                   {/* POLITICA 6 */}
                   <li className="font-semibold">
                     ALTERAÇÕES NA POLÍTICA DE PRIVACIDADE
@@ -198,7 +159,7 @@ const Page = () => {
                     conosco:
                   </p>
                   <ul>
-                    <li>E-mail: contato@exemplo.com.br</li>
+                    <li>E-mail: casaloperante@gmail.com</li>
                   </ul>
                 </ol>
               </div>

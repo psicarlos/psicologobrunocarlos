@@ -11,19 +11,21 @@ const Servicos = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
         <div className="flex bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-stone-700 via-sky-900 to-green-600 border-colorDetails border-2 rounded-2xl p-4">
           <div className="flex m-auto">
-            <p className="font-bold">
+            <p className="font-bold md:text-lg">
               Foco nas mudanças de forma progressiva e prática.
             </p>
           </div>
         </div>
         <div className="flex bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-stone-700 via-sky-900 to-green-600 border-colorDetails border-2 rounded-2xl p-4">
           <div className="flex m-auto">
-            <p className="font-bold ">Uma aborgem simples e objetiva.</p>
+            <p className="font-bold md:text-lg">
+              Uma aborgem simples e objetiva.
+            </p>
           </div>
         </div>
         <div className="flex bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-stone-700 via-sky-900 to-green-600 border-colorDetails border-2 rounded-2xl p-4">
           <div className="flex m-auto">
-            <p className="font-bold">
+            <p className="font-bold md:text-lg">
               Acompanhamento entre os atendimentos visando potencializar os
               resultados.
             </p>
