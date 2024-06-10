@@ -7,6 +7,7 @@ export async function getYouTubeVideos() {
   try {
     const data = await fetch(
       `${apiURL}?key=${apiKey}&channelId=${channelId}&order=date&part=snippet&maxResults=${maxResults}`,
+      { next: { revalidate: 86400 } },
     );
 
     if (!data.ok) {
