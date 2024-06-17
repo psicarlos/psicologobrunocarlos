@@ -32,13 +32,13 @@ const Rodape = () => {
                 <Whatsapp />
               </a>
 
-              <a
+              {/* <a
                 href="https://www.instagram.com/psicologobrunocarlos/"
                 target="_blank"
                 className="instagram hover:scale-125 duration-300"
               >
                 <Instagram />
-              </a>
+              </a> */}
 
               <a
                 href="https://www.youtube.com/channel/UC1ExqJlPyZFRnxlORU-9C5w"
