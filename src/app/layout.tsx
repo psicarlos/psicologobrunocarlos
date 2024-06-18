@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Exo, Inter, Space_Grotesk } from 'next/font/google';
 import './globals.css';
+import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google';
 
 const inter = Inter({ subsets: ['latin'] });
 const exo = Exo({ subsets: ['latin'] });
@@ -22,6 +23,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
+      <GoogleAnalytics gaId="AW-757811905" />
+      <GoogleTagManager gtmId="AW-757811905" />
       <body className={space_grotesk.className}>{children}</body>
     </html>
   );
