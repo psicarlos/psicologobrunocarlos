@@ -10,7 +10,7 @@ const Chegar = () => {
 
       <div className=" flex flex-row gap-8 justify-around">
         <div className=" p-4 hover:scale-110 duration-300">
-          <a href="https://www.waze.com/ul?ll=-23.4449838%2C-51.9344187&navigate=yes&zoom=17">
+          <a href="https://www.waze.com/pt-BR/live-map/directions?navigate=yes&to=ll.-23.4438794%2C-51.9361382&navigate=yes&zoom=17">
             <span className="consulta">
               <Waze />
             </span>
@@ -18,7 +18,7 @@ const Chegar = () => {
         </div>
 
         <div className="p-4 hover:scale-110 duration-300">
-          <a href="https://www.google.com/maps/place/R.+Jouji+Nakamura,+166+-+Jardim+Novo+Horizonte,+Maring%C3%A1+-+PR,+87010-110/@-23.4449838,-51.9344187,3a,75y,351.89h,90.37t/data=!3m6!1e1!3m4!1sr4bl3cudqAF5o36A_WEwpg!2e0!7i16384!8i8192!4m5!3m4!1s0x94ecd0b288e9ee57:0x67d81b26cb27b871!8m2!3d-23.4448848!4d-51.9344689">
+          <a href="https://www.google.com/maps/place/R.+Prof.+Giampero+Monacci,+337+-+Jardim+Novo+Horizonte,+Maring%C3%A1+-+PR,+87010-090/@-23.4438794,-51.9361382,17z/data=!4m16!1m9!3m8!1s0x94ecd0b2da7ccaf9:0x26a5050eca04f245!2sR.+Prof.+Giampero+Monacci,+337+-+Jardim+Novo+Horizonte,+Maring%C3%A1+-+PR,+87010-090!3b1!8m2!3d-23.4440144!4d-51.93609!10e5!16s%2Fg%2F11hb7qfvc_!3m5!1s0x94ecd0b2da7ccaf9:0x26a5050eca04f245!8m2!3d-23.4440144!4d-51.93609!16s%2Fg%2F11hb7qfvc_?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D">
             <span className="consulta">
               <Maps />
             </span>
@@ -26,7 +26,7 @@ const Chegar = () => {
         </div>
 
         <div className="p-4 hover:scale-110 duration-300">
-          <a href="https://m.uber.com/ul/?action=setPickup&pickup=my_location&dropoff[formatted_address]=Psicologo%20Bruno%20Carlos&dropoff[latitude]=-23.4449838&dropoff[longitude]=-51.9344187">
+          <a href="https://m.uber.com/ul/?action=setPickup&pickup=my_location&dropoff[formatted_address]=Psicologo%20Bruno%20Carlos&dropoff[latitude]=-23.4438794&dropoff[longitude]=-51.9361382">
             <span className="consulta">
               <Uber />
             </span>

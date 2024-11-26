@@ -2,9 +2,9 @@ import React from 'react';
 import Image from 'next/image';
 import Agendamento from '../btnAgendamento/Agendamento';
 
-import Estacionamento from '@/img/clinica/estacionamento.jpg';
-import Recepcao from '@/img/clinica/recepcao.jpg';
-import Atendimento1 from '@/img/clinica/sala-de-atendimento-1.jpg';
+import Fachada from '@/img/clinica/fachada.jpg';
+import Recepcao from '@/img/clinica/sala_espera.jpg';
+import Atendimento from '@/img/clinica/sala_atendimento.jpg';
 
 const Ambiente = () => {
   return (
@@ -17,11 +17,11 @@ const Ambiente = () => {
         <div className=" bg-transparent rounded-xl">
           <div>
             <Image
-              alt="Estacionamento"
+              alt="Fachada"
               className=""
               width={380}
               height={200}
-              src={Estacionamento}
+              src={Fachada}
               style={{
                 aspectRatio: '200/200',
                 objectFit: 'cover',
@@ -29,14 +29,14 @@ const Ambiente = () => {
               priority
             />
             <p className="font-bold mb-2 text-center bg-[conic-gradient(at_left,_var(--tw-gradient-stops))] from-stone-700 via-sky-900 to-green-600 border-colorDetails border-2 py-2 rounded-b-xl">
-              Estacionamento
+              Fachada
             </p>
           </div>
         </div>
         <div className=" bg-transparent rounded-xl">
           <div>
             <Image
-              alt="Estacionamento"
+              alt="Recepção"
               className=""
               width={380}
               height={200}
@@ -55,11 +55,11 @@ const Ambiente = () => {
         <div className="bg-transparent rounded-xl">
           <div>
             <Image
-              alt="Estacionamento"
+              alt="Sala de atendimento"
               className=""
               width={380}
               height={200}
-              src={Atendimento1}
+              src={Atendimento}
               style={{
                 aspectRatio: '200/200',
                 objectFit: 'cover',
