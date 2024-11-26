@@ -10,7 +10,7 @@ const Chegar = () => {
 
       <div className=" flex flex-row gap-8 justify-around">
         <div className=" p-4 hover:scale-110 duration-300">
-          <a href="https://www.waze.com/pt-BR/live-map/directions?navigate=yes&to=ll.-23.4438794%2C-51.9361382&navigate=yes&zoom=17">
+          <a href="https://www.waze.com/ul?ll=-23.4438794%2C-51.9361382&navigate=yes&zoom=17">
             <span className="consulta">
               <Waze />
             </span>
