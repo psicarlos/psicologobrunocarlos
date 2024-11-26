@@ -20,10 +20,10 @@ const Ambiente = () => {
               alt="Fachada"
               className=""
               width={380}
-              height={200}
+              height={300}
               src={Fachada}
               style={{
-                aspectRatio: '200/200',
+                aspectRatio: '16/9 auto',
                 objectFit: 'cover',
               }}
               priority
@@ -39,10 +39,10 @@ const Ambiente = () => {
               alt="Recepção"
               className=""
               width={380}
-              height={200}
+              height={300}
               src={Recepcao}
               style={{
-                aspectRatio: '200/200',
+                aspectRatio: '16/9 auto',
                 objectFit: 'cover',
               }}
               priority
@@ -58,10 +58,10 @@ const Ambiente = () => {
               alt="Sala de atendimento"
               className=""
               width={380}
-              height={200}
+              height={300}
               src={Atendimento}
               style={{
-                aspectRatio: '200/200',
+                aspectRatio: '16/9 auto',
                 objectFit: 'cover',
               }}
               priority
