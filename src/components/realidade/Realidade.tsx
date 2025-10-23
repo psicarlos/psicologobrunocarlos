@@ -9,6 +9,12 @@ import Pensamentos from '../icons/Pensamentos';
 const Realidade = () => {
   return (
     <section className="py-24 px-4  md:max-w-6xl md:mx-auto bg-[#141A1B] md:px-24 rounded-3xl">
+      <h2 className="text-2xl font-bold text-center text-gray-300">
+        Bruno Carlos de Oliveira da Silva
+      </h2>
+      <h2 className="text-2xl font-bold mb-8 text-center text-gray-300">
+        CRP: 08/28594
+      </h2>
       <h2 className="text-3xl font-bold mb-6 text-center text-colorDetails">
         Brigas intermináveis, distanciamento, frieza no relacionamento e na
         cama…
