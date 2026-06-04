@@ -9,9 +9,14 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-videos:
     runs-on: ubuntu-latest
+    # Secrets estão no ambiente "Production" (não em repository secrets)
+    environment: Production
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,7 +29,7 @@ jobs:
       - name: Verificar secrets do YouTube
         run: |
           if [ -z "$YOUTUBE_API_KEY" ]; then
-            echo "::error::Secret YOUTUBE_API_KEY ausente. Settings → Secrets and variables → Actions"
+            echo "::error::Secret YOUTUBE_API_KEY ausente no ambiente Production"
             exit 1
           fi
           if [ -z "$YOUTUBE_CHANNEL_ID" ] && [ -z "$YOUTUBE_USERNAME" ]; then
@@ -42,7 +47,7 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
           YOUTUBE_USERNAME: ${{ secrets.YOUTUBE_USERNAME }}
-          MAX_RESULTS: '4'
+          MAX_RESULTS: ${{ secrets.MAX_RESULTS || '4' }}
 
       - name: Commit e push (dispara novo deploy na Vercel)
         run: |
