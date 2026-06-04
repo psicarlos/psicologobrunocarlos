@@ -19,7 +19,22 @@ jobs:
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
+
+      - name: Verificar secrets do YouTube
+        run: |
+          if [ -z "$YOUTUBE_API_KEY" ]; then
+            echo "::error::Secret YOUTUBE_API_KEY ausente. Settings → Secrets and variables → Actions"
+            exit 1
+          fi
+          if [ -z "$YOUTUBE_CHANNEL_ID" ] && [ -z "$YOUTUBE_USERNAME" ]; then
+            echo "::error::Configure YOUTUBE_CHANNEL_ID ou YOUTUBE_USERNAME nos secrets"
+            exit 1
+          fi
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          YOUTUBE_USERNAME: ${{ secrets.YOUTUBE_USERNAME }}
 
       - name: Buscar Shorts na API do YouTube
         run: node scripts/fetch-youtube-videos.js

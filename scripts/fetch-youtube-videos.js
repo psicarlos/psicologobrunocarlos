@@ -266,7 +266,10 @@ function formatVideos(videos) {
 async function main() {
   try {
     if (!YOUTUBE_API_KEY || YOUTUBE_API_KEY === 'YOUR_API_KEY') {
-      throw new Error('YOUTUBE_API_KEY não configurada. Configure no arquivo .env');
+      const hint = process.env.GITHUB_ACTIONS
+        ? 'Configure o secret YOUTUBE_API_KEY em Settings → Secrets and variables → Actions'
+        : 'Configure no arquivo .env';
+      throw new Error(`YOUTUBE_API_KEY não configurada. ${hint}`);
     }
 
     let channelId = YOUTUBE_CHANNEL_ID;
@@ -283,7 +286,10 @@ async function main() {
     }
 
     if (!channelId || channelId === 'YOUR_CHANNEL_ID') {
-      throw new Error('YOUTUBE_CHANNEL_ID não configurada. Configure no arquivo .env');
+      const hint = process.env.GITHUB_ACTIONS
+        ? 'Configure YOUTUBE_CHANNEL_ID (ou YOUTUBE_USERNAME) nos secrets do repositório'
+        : 'Configure no arquivo .env';
+      throw new Error(`YOUTUBE_CHANNEL_ID não configurada. ${hint}`);
     }
 
     console.log(`📹 Buscando Shorts do canal: ${channelId}...`);
