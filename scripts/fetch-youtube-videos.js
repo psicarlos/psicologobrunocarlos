@@ -267,9 +267,15 @@ async function main() {
   try {
     if (!YOUTUBE_API_KEY || YOUTUBE_API_KEY === 'YOUR_API_KEY') {
       const hint = process.env.GITHUB_ACTIONS
-        ? 'Configure o secret YOUTUBE_API_KEY em Settings → Secrets and variables → Actions'
+        ? 'Configure YOUTUBE_API_KEY no ambiente Production (secrets ou variables)'
         : 'Configure no arquivo .env';
       throw new Error(`YOUTUBE_API_KEY não configurada. ${hint}`);
+    }
+
+    if (process.env.GITHUB_ACTIONS && !YOUTUBE_API_KEY.startsWith('AIza')) {
+      throw new Error(
+        'YOUTUBE_API_KEY inválida: chaves do Google começam com "AIza". Revise o valor no GitHub (evite confundir I maiúsculo com l minúsculo).'
+      );
     }
 
     let channelId = YOUTUBE_CHANNEL_ID;
