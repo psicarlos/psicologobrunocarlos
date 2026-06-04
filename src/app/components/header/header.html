@@ -1,0 +1,41 @@
+<header class="bg-beige-sand border-b border-beige-dark/20 shadow-sm sticky top-0 z-50">
+  <nav class="container mx-auto px-4 py-4">
+    <div class="relative flex items-center justify-end min-h-[44px]">
+      <div class="hidden md:flex absolute left-1/2 -translate-x-1/2 items-center space-x-4 lg:space-x-6 whitespace-nowrap">
+        <a href="#inicio" class="text-brown-dark hover:text-gold transition-colors font-serif-title font-bold text-sm lg:text-base">Início</a>
+        <span class="text-brown-dark/40 font-serif-title font-bold">|</span>
+        <a href="#sobre" class="text-brown-dark hover:text-gold transition-colors font-serif-title font-bold text-sm lg:text-base">Sobre</a>
+        <span class="text-brown-dark/40 font-serif-title font-bold">|</span>
+        <a href="#terapia-casal" class="text-brown-dark hover:text-gold transition-colors font-serif-title font-bold text-sm lg:text-base">Terapia de Casal</a>
+        <span class="text-brown-dark/40 font-serif-title font-bold">|</span>
+        <a href="#terapia-individual" class="text-brown-dark hover:text-gold transition-colors font-serif-title font-bold text-sm lg:text-base">Terapia Individual</a>
+        <span class="text-brown-dark/40 font-serif-title font-bold">|</span>
+        <a href="#depoimentos" class="text-brown-dark hover:text-gold transition-colors font-serif-title font-bold text-sm lg:text-base">Depoimentos</a>
+        <span class="text-brown-dark/40 font-serif-title font-bold">|</span>
+        <a href="#contato" class="text-brown-dark hover:text-gold transition-colors font-serif-title font-bold text-sm lg:text-base">Contato</a>
+      </div>
+
+      <a href="https://wa.me/5544991269022?text=Ola!%20Gostaria%20de%20marcar%20um%20atendimento." class="btn-gold text-white hidden md:block text-sm lg:text-base px-6 lg:px-8 whitespace-nowrap relative z-10" target="_blank">Agende sua Consulta</a>
+      <button class="md:hidden text-brown-dark relative z-10" (click)="toggleMenu()" aria-label="Menu">
+        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          @if (!isMenuOpen) {
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          } @else {
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          }
+        </svg>
+      </button>
+    </div>
+    @if (isMenuOpen) {
+      <div class="md:hidden mt-4 space-y-2 pb-4">
+        <a href="#inicio" (click)="closeMenu()" class="block text-brown-dark hover:text-gold transition-colors font-sans py-2">Inicio</a>
+        <a href="#sobre" (click)="closeMenu()" class="block text-brown-dark hover:text-gold transition-colors font-sans py-2">Sobre</a>
+        <a href="#terapia-casal" (click)="closeMenu()" class="block text-brown-dark hover:text-gold transition-colors font-sans py-2">Terapia de Casal</a>
+        <a href="#terapia-individual" (click)="closeMenu()" class="block text-brown-dark hover:text-gold transition-colors font-sans py-2">Terapia Individual</a>
+        <a href="#depoimentos" (click)="closeMenu()" class="block text-brown-dark hover:text-gold transition-colors font-sans py-2">Depoimentos</a>
+        <a href="#contato" (click)="closeMenu()" class="block text-brown-dark hover:text-gold transition-colors font-sans py-2">Contato</a>
+        <a href="https://wa.me/5544991269022?text=Ola!%20Gostaria%20de%20marcar%20um%20atendimento." (click)="closeMenu()" class="btn-gold w-full mt-4 inline-block text-center" target="_blank">Agende sua Consulta</a>
+      </div>
+    }
+  </nav>
+</header>

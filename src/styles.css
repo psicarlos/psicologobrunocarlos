@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    min-height: 100%;
+  }
+
+  body {
+    background-color: #dccbb5;
+    background-image: url('/assets/imagem/fundo_2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif-title;
+  }
+}
+
+@layer components {
+  .btn-gold {
+    @apply text-beige-light font-serif-title px-6 md:px-8 py-3 text-base md:text-lg cursor-pointer no-underline;
+    @apply inline-block text-center rounded-sm border-0;
+    background: linear-gradient(
+      180deg,
+      #d4b078 0%,
+      #b08d57 38%,
+      #967542 68%,
+      #7a5e34 100%
+    );
+    border: 1px solid #6b5230;
+    border-top-color: rgba(255, 255, 255, 0.35);
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.4) inset,
+      0 -2px 6px rgba(46, 42, 38, 0.35) inset,
+      0 4px 10px rgba(46, 42, 38, 0.4),
+      0 2px 4px rgba(0, 0, 0, 0.2);
+    text-shadow: 0 1px 1px rgba(46, 42, 38, 0.35);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+  }
+
+  .btn-gold:hover {
+    filter: brightness(1.05);
+    box-shadow:
+      0 1px 0 rgba(255, 255, 255, 0.45) inset,
+      0 -2px 6px rgba(46, 42, 38, 0.3) inset,
+      0 6px 14px rgba(46, 42, 38, 0.45),
+      0 3px 6px rgba(0, 0, 0, 0.25);
+  }
+
+  .btn-gold:active {
+    transform: translateY(2px);
+    filter: brightness(0.95);
+    box-shadow:
+      0 1px 2px rgba(46, 42, 38, 0.4) inset,
+      0 2px 4px rgba(46, 42, 38, 0.25);
+  }
+
+  .section-title {
+    @apply font-serif-title text-3xl md:text-4xl lg:text-5xl text-brown-dark mb-4;
+  }
+
+  .section-subtitle {
+    @apply font-serif-subtitle text-xl md:text-2xl text-zinc-900 mb-8;
+  }
+
+  .section-frame {
+    padding: 1.25rem 1rem;
+    border-top: 1px solid rgba(156, 139, 111, 0.5);
+    border-bottom: 1px solid rgba(156, 139, 111, 0.5);
+    box-shadow:
+      0 0 0 8px #ddd0c0,
+      0 0 0 10px rgba(156, 139, 111, 0.4),
+      inset 0 1px 0 rgba(255, 255, 255, 0.5),
+      0 8px 24px 8px rgba(0, 0, 0, 0.12),
+      0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .section-frame-inner {
+    border: 6px solid #9c8b6f;
+    box-shadow: inset 0 0 12px rgba(0, 0, 0, 0.1);
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  @media (min-width: 768px) {
+    .section-frame {
+      padding: 1.5rem 1.5rem;
+    }
+
+    .section-frame-inner {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+    }
+
+    /* Remove moldura no desktop (use junto com .section-frame no HTML) */
+    .section-frame.section-frame-desktop-off {
+      padding: 0;
+      border-top: none;
+      border-bottom: none;
+      box-shadow: none;
+    }
+
+    .section-frame.section-frame-desktop-off .section-frame-inner {
+      border: none;
+      box-shadow: none;
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .section-frame--mobile {
+      padding: 1.25rem 1rem;
+      border-top: 1px solid rgba(156, 139, 111, 0.5);
+      border-bottom: 1px solid rgba(156, 139, 111, 0.5);
+      box-shadow:
+        0 0 0 8px #ddd0c0,
+        0 0 0 10px rgba(156, 139, 111, 0.4),
+        inset 0 1px 0 rgba(255, 255, 255, 0.5),
+        0 8px 24px 8px rgba(0, 0, 0, 0.12),
+        0 2px 8px rgba(0, 0, 0, 0.08);
+    }
+
+    .section-frame--mobile .section-frame-inner {
+      border: 6px solid #9c8b6f;
+      box-shadow: inset 0 0 12px rgba(0, 0, 0, 0.1);
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+  }
+}

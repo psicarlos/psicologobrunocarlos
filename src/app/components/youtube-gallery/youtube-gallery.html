@@ -1,0 +1,58 @@
+<section id="videos" class="container mx-auto px-4 py-16 md:py-24">
+  <h2 class="section-title text-center mb-12">Shorts</h2>
+  
+  @if (isLoading()) {
+    <div class="text-center py-12">
+      <p class="font-sans text-zinc-900">Carregando Shorts...</p>
+    </div>
+  } @else if (error()) {
+    <div class="text-center py-12">
+      <p class="font-sans text-red-600 mb-4">{{ error() }}</p>
+      <p class="font-sans text-sm text-zinc-900">
+        Execute o script <code class="bg-beige-sand px-2 py-1 rounded">node scripts/fetch-youtube-videos.js</code> para buscar Shorts do YouTube.
+      </p>
+    </div>
+  } @else if (videos().length === 0) {
+    <div class="text-center py-12">
+      <p class="font-sans text-zinc-900 mb-4">Nenhum Short disponível no momento.</p>
+      <p class="font-sans text-sm text-zinc-900">
+        Execute o script <code class="bg-beige-sand px-2 py-1 rounded">node scripts/fetch-youtube-videos.js</code> para buscar Shorts do YouTube.
+      </p>
+    </div>
+  } @else {
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+      @for (video of videos(); track video.id) {
+        <div class="bg-beige-sand/50 border border-beige-dark/20 rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow">
+          <div class="aspect-[9/16] bg-brown-dark">
+            <iframe 
+              [src]="getEmbedUrl(video.videoId)"
+              class="w-full h-full"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              loading="lazy">
+            </iframe>
+          </div>
+          <div class="p-4">
+            <h3 class="font-serif-title text-lg text-brown-dark mb-2 line-clamp-2">
+              {{ video.title }}
+            </h3>
+            <p class="font-sans text-sm text-zinc-900 mb-3 line-clamp-2">
+              {{ video.description }}
+            </p>
+            <p class="font-sans text-xs text-zinc-900">
+              Publicado em {{ formatDate(video.publishedAt) }}
+            </p>
+            <a 
+              [href]="'https://www.youtube.com/watch?v=' + video.videoId" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              class="inline-block mt-3 text-gold hover:text-brown-dark transition-colors font-sans text-sm">
+              Assistir no YouTube →
+            </a>
+          </div>
+        </div>
+      }
+    </div>
+  }
+</section>

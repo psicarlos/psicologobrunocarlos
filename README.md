@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Site Psicólogo Bruno Carlos
 
-## Getting Started
+Site profissional desenvolvido em Angular 21 com Tailwind CSS para o psicólogo Bruno Carlos, especializado em psicoterapia para casais e adultos.
 
-First, run the development server:
+## Características
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- **Design Clássico e Elegante**: Estética sofisticada com paleta de cores bege, marrom e dourado
+- **Totalmente Responsivo**: Adaptado para desktop, tablet e mobile
+- **Tipografias Elegantes**: Playfair Display para títulos, Cormorant Garamond para subtítulos e Lato para textos
+- **Componentes Modulares**: Estrutura organizada em componentes reutilizáveis
+
+## Tecnologias
+
+- Angular 21
+- Tailwind CSS 4
+- TypeScript
+
+## Estrutura do Projeto
+
+```
+src/app/
+├── components/
+│   ├── header/          # Cabeçalho com navegação
+│   ├── hero/            # Seção principal com imagem e título
+│   ├── about/           # Seção sobre o psicólogo
+│   ├── services/        # Serviços oferecidos
+│   ├── how-it-works/    # Processo de trabalho em 3 passos
+│   ├── testimonials/    # Depoimentos de clientes
+│   ├── contact/         # Formulário de contato
+│   └── footer/          # Rodapé
+└── styles.css           # Estilos globais e configuração Tailwind
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Instalação
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Instale as dependências:
+```bash
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. Execute o servidor de desenvolvimento:
+```bash
+npm start
+```
 
-## Learn More
+3. Acesse `http://localhost:4200` no navegador
 
-To learn more about Next.js, take a look at the following resources:
+## Build para Produção
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Os arquivos compilados estarão na pasta `dist/psicarlos-site/`.
 
-## Deploy on Vercel
+## Paleta de Cores
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Bege Claro**: `#E6D8C8`
+- **Bege Areia**: `#DCCBB5`
+- **Bege Escuro**: `#CBB79E`
+- **Cinza Quente**: `#8A857D`
+- **Marrom Escuro**: `#2E2A26`
+- **Dourado**: `#B08D57`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Personalização
+
+### Imagens
+
+Substitua as imagens placeholder:
+- Hero: `src/app/components/hero/hero.html` - linha com placeholder
+- Consultório: `src/app/components/how-it-works/how-it-works.html` - linha com placeholder
+
+### Informações de Contato
+
+Atualize as informações em:
+- `src/app/components/contact/contact.html` - telefone e email
+- `src/app/components/footer/footer.html` - CRP e informações legais
+
+### Conteúdo
+
+Edite o conteúdo diretamente nos arquivos HTML de cada componente.
+
+## Licença
+
+Todos os direitos reservados - Psicólogo Bruno Carlos
