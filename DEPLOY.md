@@ -13,14 +13,16 @@ Fluxo automático:
 ## 1. GitHub
 
 1. Envie o projeto para um repositório no GitHub
-2. Em **Settings → Secrets and variables → Actions**, crie os **secrets** (aba Secrets, não Variables):
-   - `YOUTUBE_API_KEY` — chave da YouTube Data API v3
-   - `YOUTUBE_CHANNEL_ID` — ID do canal (`UC...`)
+2. Em **Settings → Secrets and variables → Actions → Repository secrets** (botão **New repository secret**), crie:
+   - `YOUTUBE_API_KEY` — mesma chave do `.env` local (começa com `AIzaSy...`)
+   - `YOUTUBE_CHANNEL_ID` — ex.: `UC1ExqJlPyZFRnxlORU-9C5w`
    - `YOUTUBE_USERNAME` — (opcional) se não usar Channel ID
-   - `MAX_RESULTS` — (opcional) padrão `4`
+   - `MAX_RESULTS` — (opcional) `4`
 
-   Se usar o ambiente **Production**, o workflow já referencia `environment: Production`. Os secrets precisam estar em **Environment secrets → Production** *ou* em **Repository secrets** (sem ambiente no workflow).
-3. O workflow `.github/workflows/update-youtube-videos.yml` já está configurado:
+   **Importante:** secrets só em *Environment → Production* (criados pela Vercel) **não funcionam** com este workflow. Use **Repository secrets**. Não use a aba Variables para a API key.
+
+3. Ao testar, clique em **Run workflow** (workflow novo). **Não** use *Re-run jobs* em execuções antigas — isso reutiliza o YAML antigo.
+4. O workflow `.github/workflows/update-youtube-videos.yml` já está configurado:
    - **Cron:** todo dia às 06:00 (Brasília)
    - **Manual:** Actions → "Atualizar Shorts do YouTube" → **Run workflow**
 

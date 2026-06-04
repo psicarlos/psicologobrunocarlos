@@ -15,12 +15,8 @@ env:
 jobs:
   update-videos:
     runs-on: ubuntu-latest
-    environment: Production
-    env:
-      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY || vars.YOUTUBE_API_KEY }}
-      YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID || vars.YOUTUBE_CHANNEL_ID }}
-      YOUTUBE_USERNAME: ${{ secrets.YOUTUBE_USERNAME || vars.YOUTUBE_USERNAME }}
-      MAX_RESULTS: ${{ secrets.MAX_RESULTS || vars.MAX_RESULTS || '4' }}
+    # NÃO usar "environment: Production" aqui — secrets vazios do ambiente
+    # (Vercel) sobrescrevem os do repositório e chegam vazios no runner.
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,23 +29,31 @@ jobs:
           node-version: '24'
 
       - name: Verificar credenciais do YouTube
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          YOUTUBE_USERNAME: ${{ secrets.YOUTUBE_USERNAME }}
         run: |
           set -e
-          ok=true
           if [ -z "$YOUTUBE_API_KEY" ]; then
-            echo "::error::YOUTUBE_API_KEY ausente. Use Environment secrets OU variables em Production"
-            ok=false
-          elif [ "${YOUTUBE_API_KEY#AIza}" = "$YOUTUBE_API_KEY" ]; then
-            echo "::warning::YOUTUBE_API_KEY não começa com AIza — confira se copiou a chave correta do Google Cloud"
+            echo "::error::YOUTUBE_API_KEY vazio. Crie em Settings → Secrets → Actions → Repository secrets (não só Environment)"
+            exit 1
+          fi
+          if [ "${YOUTUBE_API_KEY#AIza}" = "$YOUTUBE_API_KEY" ]; then
+            echo "::warning::A chave deve começar com AIza (copie de novo do Google Cloud)"
           fi
           if [ -z "$YOUTUBE_CHANNEL_ID" ] && [ -z "$YOUTUBE_USERNAME" ]; then
-            echo "::error::Defina YOUTUBE_CHANNEL_ID ou YOUTUBE_USERNAME no ambiente Production"
-            ok=false
+            echo "::error::Defina YOUTUBE_CHANNEL_ID ou YOUTUBE_USERNAME em Repository secrets"
+            exit 1
           fi
-          if [ "$ok" = false ]; then exit 1; fi
-          echo "Credenciais presentes (API key: ${#YOUTUBE_API_KEY} caracteres, canal: ${YOUTUBE_CHANNEL_ID:-via username})"
+          echo "OK — API key com ${#YOUTUBE_API_KEY} caracteres"
 
       - name: Buscar Shorts na API do YouTube
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          YOUTUBE_USERNAME: ${{ secrets.YOUTUBE_USERNAME }}
+          MAX_RESULTS: ${{ secrets.MAX_RESULTS || '4' }}
         run: node scripts/fetch-youtube-videos.js
 
       - name: Commit e push (dispara novo deploy na Vercel)
@@ -64,6 +68,6 @@ jobs:
           fi
           git commit -m "chore: atualizar Shorts do YouTube"
           if ! git push origin "HEAD:${GITHUB_REF_NAME}"; then
-            echo "::error::git push falhou. Em Settings → Branches, permita bypass para github-actions[bot] ou desative proteção na main"
+            echo "::error::git push falhou. Permita github-actions[bot] nas regras da branch main"
             exit 1
           fi

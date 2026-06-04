@@ -267,7 +267,7 @@ async function main() {
   try {
     if (!YOUTUBE_API_KEY || YOUTUBE_API_KEY === 'YOUR_API_KEY') {
       const hint = process.env.GITHUB_ACTIONS
-        ? 'Configure YOUTUBE_API_KEY no ambiente Production (secrets ou variables)'
+        ? 'Crie Repository secret YOUTUBE_API_KEY (Settings → Secrets → Actions)'
         : 'Configure no arquivo .env';
       throw new Error(`YOUTUBE_API_KEY não configurada. ${hint}`);
     }
