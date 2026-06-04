@@ -1,0 +1,42 @@
+name: Atualizar Shorts do YouTube
+
+on:
+  schedule:
+    # Todo dia às 23:30 (horário de Brasília, UTC-3) = 02:30 UTC
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-videos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Buscar Shorts na API do YouTube
+        run: node scripts/fetch-youtube-videos.js
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          YOUTUBE_USERNAME: ${{ secrets.YOUTUBE_USERNAME }}
+          MAX_RESULTS: '4'
+
+      - name: Commit e push (dispara novo deploy na Vercel)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/assets/data/videos.json
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração em videos.json"
+          else
+            git commit -m "chore: atualizar Shorts do YouTube"
+            git push
+          fi
