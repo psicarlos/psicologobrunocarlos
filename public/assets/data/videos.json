@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "ZBW5vB0UsRU",
+      "videoId": "ZBW5vB0UsRU",
+      "title": "Para de frescura",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/ZBW5vB0UsRU/hqdefault.jpg",
+      "publishedAt": "2026-06-05T23:00:19Z"
+    },
+    {
       "id": "SV9DYsTfhjs",
       "videoId": "SV9DYsTfhjs",
       "title": "“Futebol é uma merda!”",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/0FPV4rySiH4/hqdefault.jpg",
       "publishedAt": "2026-06-02T23:00:23Z"
-    },
-    {
-      "id": "ZYYuT8BzKdw",
-      "videoId": "ZYYuT8BzKdw",
-      "title": "Quer viver a vidinha de solteiro, mas teve filho…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/ZYYuT8BzKdw/hqdefault.jpg",
-      "publishedAt": "2026-05-29T23:00:25Z"
     }
   ],
-  "lastUpdated": "2026-06-05T06:48:26.968Z"
+  "lastUpdated": "2026-06-06T06:07:04.612Z"
 }
