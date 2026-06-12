@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "lclgER27f70",
+      "videoId": "lclgER27f70",
+      "title": "Você não tem responsabilidade pelo teu processo de mudança!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/lclgER27f70/hqdefault.jpg",
+      "publishedAt": "2026-06-11T23:00:06Z"
+    },
+    {
       "id": "U5tIj9Uj0QE",
       "videoId": "U5tIj9Uj0QE",
       "title": "O erro do casamento do outro pra você é feio…",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/ZBW5vB0UsRU/hqdefault.jpg",
       "publishedAt": "2026-06-05T23:00:19Z"
-    },
-    {
-      "id": "SV9DYsTfhjs",
-      "videoId": "SV9DYsTfhjs",
-      "title": "“Futebol é uma merda!”",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/SV9DYsTfhjs/hqdefault.jpg",
-      "publishedAt": "2026-06-04T11:00:19Z"
     }
   ],
-  "lastUpdated": "2026-06-11T07:13:27.753Z"
+  "lastUpdated": "2026-06-12T07:03:29.071Z"
 }
