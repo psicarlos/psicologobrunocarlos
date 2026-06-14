@@ -1,6 +1,22 @@
 {
   "videos": [
     {
+      "id": "iZFAfcOv-lc",
+      "videoId": "iZFAfcOv-lc",
+      "title": "Uma verdade sobre a traição que incomoda",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/iZFAfcOv-lc/hqdefault.jpg",
+      "publishedAt": "2026-06-14T03:00:12Z"
+    },
+    {
+      "id": "NpZjSUFv05E",
+      "videoId": "NpZjSUFv05E",
+      "title": "#diadosnamorados #copadomundo",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/NpZjSUFv05E/hqdefault.jpg",
+      "publishedAt": "2026-06-13T17:20:50Z"
+    },
+    {
       "id": "RMoEpEqNo8U",
       "videoId": "RMoEpEqNo8U",
       "title": "A traição pela ótica feminina, sempre será sentida de outra forma.",
@@ -15,23 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/fJmVW-PYkOs/hqdefault.jpg",
       "publishedAt": "2026-06-12T18:06:39Z"
-    },
-    {
-      "id": "lclgER27f70",
-      "videoId": "lclgER27f70",
-      "title": "Você não tem responsabilidade pelo teu processo de mudança!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/lclgER27f70/hqdefault.jpg",
-      "publishedAt": "2026-06-11T23:00:06Z"
-    },
-    {
-      "id": "U5tIj9Uj0QE",
-      "videoId": "U5tIj9Uj0QE",
-      "title": "O erro do casamento do outro pra você é feio…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/U5tIj9Uj0QE/hqdefault.jpg",
-      "publishedAt": "2026-06-09T19:43:50Z"
     }
   ],
-  "lastUpdated": "2026-06-13T06:36:48.329Z"
+  "lastUpdated": "2026-06-14T07:05:58.037Z"
 }
