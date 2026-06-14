@@ -9,13 +9,29 @@
   }
 
   body {
+    position: relative;
+    background-color: #dccbb5;
+    min-height: 100vh;
+    min-height: 100dvh;
+  }
+
+  /*
+   * Fundo fixo via pseudo-elemento (não background-attachment: fixed).
+   * iOS Safari pixela o body com attachment:fixed; scroll no mobile quebrava o Android.
+   */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
     background-color: #dccbb5;
     background-image: url('/assets/imagem/fundo_2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
-    background-attachment: fixed;
-    min-height: 100vh;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
   }
 
   h1, h2, h3, h4, h5, h6 {
