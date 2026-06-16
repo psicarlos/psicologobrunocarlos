@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "QFoUFiDRGbg",
+      "videoId": "QFoUFiDRGbg",
+      "title": "Casou com ele e a família veio de brinde",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/QFoUFiDRGbg/hqdefault.jpg",
+      "publishedAt": "2026-06-15T23:00:16Z"
+    },
+    {
       "id": "iZFAfcOv-lc",
       "videoId": "iZFAfcOv-lc",
       "title": "Uma verdade sobre a traição que incomoda",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/RMoEpEqNo8U/hqdefault.jpg",
       "publishedAt": "2026-06-13T03:00:23Z"
-    },
-    {
-      "id": "fJmVW-PYkOs",
-      "videoId": "fJmVW-PYkOs",
-      "title": "O tal dia dos namorados…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/fJmVW-PYkOs/hqdefault.jpg",
-      "publishedAt": "2026-06-12T18:06:39Z"
     }
   ],
-  "lastUpdated": "2026-06-15T07:44:27.358Z"
+  "lastUpdated": "2026-06-16T08:25:46.600Z"
 }
