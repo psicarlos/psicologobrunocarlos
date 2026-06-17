@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "37n--pAF-no",
+      "videoId": "37n--pAF-no",
+      "title": "Até quando vale a pena tentar ?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/37n--pAF-no/hqdefault.jpg",
+      "publishedAt": "2026-06-16T23:00:22Z"
+    },
+    {
       "id": "QFoUFiDRGbg",
       "videoId": "QFoUFiDRGbg",
       "title": "Casou com ele e a família veio de brinde",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/NpZjSUFv05E/hqdefault.jpg",
       "publishedAt": "2026-06-13T17:20:50Z"
-    },
-    {
-      "id": "RMoEpEqNo8U",
-      "videoId": "RMoEpEqNo8U",
-      "title": "A traição pela ótica feminina, sempre será sentida de outra forma.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/RMoEpEqNo8U/hqdefault.jpg",
-      "publishedAt": "2026-06-13T03:00:23Z"
     }
   ],
-  "lastUpdated": "2026-06-16T08:25:46.600Z"
+  "lastUpdated": "2026-06-17T07:32:13.481Z"
 }
