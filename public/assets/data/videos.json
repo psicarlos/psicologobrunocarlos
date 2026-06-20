@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "zYex2ADg4AQ",
+      "videoId": "zYex2ADg4AQ",
+      "title": "Toda mudança gera uma resistência para aceitá-la…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/zYex2ADg4AQ/hqdefault.jpg",
+      "publishedAt": "2026-06-19T23:00:22Z"
+    },
+    {
       "id": "0yXCiWo4MZw",
       "videoId": "0yXCiWo4MZw",
       "title": "Casal precisa entender isso!",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/37n--pAF-no/hqdefault.jpg",
       "publishedAt": "2026-06-16T23:00:22Z"
-    },
-    {
-      "id": "QFoUFiDRGbg",
-      "videoId": "QFoUFiDRGbg",
-      "title": "Casou com ele e a família veio de brinde",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/QFoUFiDRGbg/hqdefault.jpg",
-      "publishedAt": "2026-06-15T23:00:16Z"
     }
   ],
-  "lastUpdated": "2026-06-19T07:38:01.110Z"
+  "lastUpdated": "2026-06-20T06:45:34.270Z"
 }
