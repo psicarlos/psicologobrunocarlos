@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "Kh17WJL1E0k",
+      "videoId": "Kh17WJL1E0k",
+      "title": "Do céu ao fundo do poço em segundos…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/Kh17WJL1E0k/hqdefault.jpg",
+      "publishedAt": "2026-06-26T01:17:04Z"
+    },
+    {
       "id": "Lt4EV-KPcZ8",
       "videoId": "Lt4EV-KPcZ8",
       "title": "Casal sem futuro…",
@@ -17,21 +25,13 @@
       "publishedAt": "2026-06-19T23:00:22Z"
     },
     {
-      "id": "37n--pAF-no",
-      "videoId": "37n--pAF-no",
-      "title": "Até quando vale a pena tentar ?",
+      "id": "0yXCiWo4MZw",
+      "videoId": "0yXCiWo4MZw",
+      "title": "Casal precisa entender isso!",
       "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/37n--pAF-no/hqdefault.jpg",
-      "publishedAt": "2026-06-16T23:00:22Z"
-    },
-    {
-      "id": "lclgER27f70",
-      "videoId": "lclgER27f70",
-      "title": "Você não tem responsabilidade pelo teu processo de mudança!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/lclgER27f70/hqdefault.jpg",
-      "publishedAt": "2026-06-11T23:00:06Z"
+      "thumbnail": "https://i.ytimg.com/vi/0yXCiWo4MZw/hqdefault.jpg",
+      "publishedAt": "2026-06-18T12:25:05Z"
     }
   ],
-  "lastUpdated": "2026-06-25T06:31:06.313Z"
+  "lastUpdated": "2026-06-26T06:34:30.449Z"
 }
