@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "eOZtZbIiSCw",
+      "videoId": "eOZtZbIiSCw",
+      "title": "A fatura do cartão também tá sendo um problema aí ?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/eOZtZbIiSCw/hqdefault.jpg",
+      "publishedAt": "2026-06-27T17:43:40Z"
+    },
+    {
       "id": "Kh17WJL1E0k",
       "videoId": "Kh17WJL1E0k",
       "title": "Do céu ao fundo do poço em segundos…",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/zYex2ADg4AQ/hqdefault.jpg",
       "publishedAt": "2026-06-19T23:00:22Z"
-    },
-    {
-      "id": "0yXCiWo4MZw",
-      "videoId": "0yXCiWo4MZw",
-      "title": "Casal precisa entender isso!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/0yXCiWo4MZw/hqdefault.jpg",
-      "publishedAt": "2026-06-18T12:25:05Z"
     }
   ],
-  "lastUpdated": "2026-06-27T06:07:28.669Z"
+  "lastUpdated": "2026-06-28T06:42:38.304Z"
 }
