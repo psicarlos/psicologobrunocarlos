@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "GiA82kNNO-Y",
+      "videoId": "GiA82kNNO-Y",
+      "title": "Casal que faz isso, tá sempre brigando !",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/GiA82kNNO-Y/hqdefault.jpg",
+      "publishedAt": "2026-06-29T11:08:06Z"
+    },
+    {
       "id": "eOZtZbIiSCw",
       "videoId": "eOZtZbIiSCw",
       "title": "A fatura do cartão também tá sendo um problema aí ?",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/Lt4EV-KPcZ8/hqdefault.jpg",
       "publishedAt": "2026-06-22T23:00:29Z"
-    },
-    {
-      "id": "zYex2ADg4AQ",
-      "videoId": "zYex2ADg4AQ",
-      "title": "Toda mudança gera uma resistência para aceitá-la…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/zYex2ADg4AQ/hqdefault.jpg",
-      "publishedAt": "2026-06-19T23:00:22Z"
     }
   ],
-  "lastUpdated": "2026-06-29T07:11:49.663Z"
+  "lastUpdated": "2026-06-30T06:37:08.283Z"
 }
