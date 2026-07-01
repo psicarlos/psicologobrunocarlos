@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "jR-XxzFoctw",
+      "videoId": "jR-XxzFoctw",
+      "title": "Trabalhamos para que vocês não precisem mais da gente …",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/jR-XxzFoctw/hqdefault.jpg",
+      "publishedAt": "2026-06-30T16:37:08Z"
+    },
+    {
       "id": "GiA82kNNO-Y",
       "videoId": "GiA82kNNO-Y",
       "title": "Casal que faz isso, tá sempre brigando !",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/Kh17WJL1E0k/hqdefault.jpg",
       "publishedAt": "2026-06-26T01:17:04Z"
-    },
-    {
-      "id": "Lt4EV-KPcZ8",
-      "videoId": "Lt4EV-KPcZ8",
-      "title": "Casal sem futuro…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/Lt4EV-KPcZ8/hqdefault.jpg",
-      "publishedAt": "2026-06-22T23:00:29Z"
     }
   ],
-  "lastUpdated": "2026-06-30T06:37:08.283Z"
+  "lastUpdated": "2026-07-01T06:50:40.507Z"
 }
