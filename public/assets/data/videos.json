@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "YHd1LoEkMy4",
+      "videoId": "YHd1LoEkMy4",
+      "title": "É muito mais fácil construir a dois!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/YHd1LoEkMy4/hqdefault.jpg",
+      "publishedAt": "2026-07-01T14:51:25Z"
+    },
+    {
       "id": "jR-XxzFoctw",
       "videoId": "jR-XxzFoctw",
       "title": "Trabalhamos para que vocês não precisem mais da gente …",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/eOZtZbIiSCw/hqdefault.jpg",
       "publishedAt": "2026-06-27T17:43:40Z"
-    },
-    {
-      "id": "Kh17WJL1E0k",
-      "videoId": "Kh17WJL1E0k",
-      "title": "Do céu ao fundo do poço em segundos…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/Kh17WJL1E0k/hqdefault.jpg",
-      "publishedAt": "2026-06-26T01:17:04Z"
     }
   ],
-  "lastUpdated": "2026-07-01T06:50:40.507Z"
+  "lastUpdated": "2026-07-02T06:21:53.621Z"
 }
