@@ -1,6 +1,22 @@
 {
   "videos": [
     {
+      "id": "lKIg1tFMgw8",
+      "videoId": "lKIg1tFMgw8",
+      "title": "A desculpa do teimoso é sempre a excessão !",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/lKIg1tFMgw8/hqdefault.jpg",
+      "publishedAt": "2026-07-03T03:39:33Z"
+    },
+    {
+      "id": "3IXCVPnKXns",
+      "videoId": "3IXCVPnKXns",
+      "title": "Não dá pra salvar ninguém enquanto você se afoga.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/3IXCVPnKXns/hqdefault.jpg",
+      "publishedAt": "2026-07-02T16:00:51Z"
+    },
+    {
       "id": "YHd1LoEkMy4",
       "videoId": "YHd1LoEkMy4",
       "title": "É muito mais fácil construir a dois!",
@@ -15,23 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/jR-XxzFoctw/hqdefault.jpg",
       "publishedAt": "2026-06-30T16:37:08Z"
-    },
-    {
-      "id": "GiA82kNNO-Y",
-      "videoId": "GiA82kNNO-Y",
-      "title": "Casal que faz isso, tá sempre brigando !",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/GiA82kNNO-Y/hqdefault.jpg",
-      "publishedAt": "2026-06-29T11:08:06Z"
-    },
-    {
-      "id": "eOZtZbIiSCw",
-      "videoId": "eOZtZbIiSCw",
-      "title": "A fatura do cartão também tá sendo um problema aí ?",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/eOZtZbIiSCw/hqdefault.jpg",
-      "publishedAt": "2026-06-27T17:43:40Z"
     }
   ],
-  "lastUpdated": "2026-07-02T06:21:53.621Z"
+  "lastUpdated": "2026-07-03T06:08:13.499Z"
 }
