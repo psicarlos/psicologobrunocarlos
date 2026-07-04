@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "-UzZzGYwE_M",
+      "videoId": "-UzZzGYwE_M",
+      "title": "Um bom café não merece um copo de plástico",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/-UzZzGYwE_M/hqdefault.jpg",
+      "publishedAt": "2026-07-03T18:08:24Z"
+    },
+    {
       "id": "lKIg1tFMgw8",
       "videoId": "lKIg1tFMgw8",
       "title": "A desculpa do teimoso é sempre a excessão !",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/YHd1LoEkMy4/hqdefault.jpg",
       "publishedAt": "2026-07-01T14:51:25Z"
-    },
-    {
-      "id": "jR-XxzFoctw",
-      "videoId": "jR-XxzFoctw",
-      "title": "Trabalhamos para que vocês não precisem mais da gente …",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/jR-XxzFoctw/hqdefault.jpg",
-      "publishedAt": "2026-06-30T16:37:08Z"
     }
   ],
-  "lastUpdated": "2026-07-03T06:08:13.499Z"
+  "lastUpdated": "2026-07-04T05:58:24.479Z"
 }
