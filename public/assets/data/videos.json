@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "GkTyKAU8Ogg",
+      "videoId": "GkTyKAU8Ogg",
+      "title": "Como eu melhoro o meu relacionamento?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/GkTyKAU8Ogg/hqdefault.jpg",
+      "publishedAt": "2026-07-07T00:42:37Z"
+    },
+    {
       "id": "-UzZzGYwE_M",
       "videoId": "-UzZzGYwE_M",
       "title": "Um bom café não merece um copo de plástico",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/3IXCVPnKXns/hqdefault.jpg",
       "publishedAt": "2026-07-02T16:00:51Z"
-    },
-    {
-      "id": "YHd1LoEkMy4",
-      "videoId": "YHd1LoEkMy4",
-      "title": "É muito mais fácil construir a dois!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/YHd1LoEkMy4/hqdefault.jpg",
-      "publishedAt": "2026-07-01T14:51:25Z"
     }
   ],
-  "lastUpdated": "2026-07-06T06:51:06.870Z"
+  "lastUpdated": "2026-07-07T06:28:39.033Z"
 }
