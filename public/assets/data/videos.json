@@ -1,6 +1,22 @@
 {
   "videos": [
     {
+      "id": "BsB6avLokoo",
+      "videoId": "BsB6avLokoo",
+      "title": "Você precisa repensar sobre isso…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/BsB6avLokoo/hqdefault.jpg",
+      "publishedAt": "2026-07-08T04:00:38Z"
+    },
+    {
+      "id": "R-OzJ-Hbg1E",
+      "videoId": "R-OzJ-Hbg1E",
+      "title": "Qual a frequência correta de intimidade do casal ?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/R-OzJ-Hbg1E/hqdefault.jpg",
+      "publishedAt": "2026-07-07T14:50:46Z"
+    },
+    {
       "id": "GkTyKAU8Ogg",
       "videoId": "GkTyKAU8Ogg",
       "title": "Como eu melhoro o meu relacionamento?",
@@ -15,23 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/-UzZzGYwE_M/hqdefault.jpg",
       "publishedAt": "2026-07-03T18:08:24Z"
-    },
-    {
-      "id": "lKIg1tFMgw8",
-      "videoId": "lKIg1tFMgw8",
-      "title": "A desculpa do teimoso é sempre a excessão !",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/lKIg1tFMgw8/hqdefault.jpg",
-      "publishedAt": "2026-07-03T03:39:33Z"
-    },
-    {
-      "id": "3IXCVPnKXns",
-      "videoId": "3IXCVPnKXns",
-      "title": "Não dá pra salvar ninguém enquanto você se afoga.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/3IXCVPnKXns/hqdefault.jpg",
-      "publishedAt": "2026-07-02T16:00:51Z"
     }
   ],
-  "lastUpdated": "2026-07-07T06:28:39.033Z"
+  "lastUpdated": "2026-07-08T05:35:29.982Z"
 }
