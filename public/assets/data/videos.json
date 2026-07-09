@@ -1,6 +1,22 @@
 {
   "videos": [
     {
+      "id": "XDAcwQa-mJE",
+      "videoId": "XDAcwQa-mJE",
+      "title": ":)",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/XDAcwQa-mJE/hqdefault.jpg",
+      "publishedAt": "2026-07-08T19:29:18Z"
+    },
+    {
+      "id": "W-w5s3T6ZqU",
+      "videoId": "W-w5s3T6ZqU",
+      "title": "Psis, por aí, é assim também !?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/W-w5s3T6ZqU/hqdefault.jpg",
+      "publishedAt": "2026-07-08T15:33:18Z"
+    },
+    {
       "id": "BsB6avLokoo",
       "videoId": "BsB6avLokoo",
       "title": "Você precisa repensar sobre isso…",
@@ -15,23 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/R-OzJ-Hbg1E/hqdefault.jpg",
       "publishedAt": "2026-07-07T14:50:46Z"
-    },
-    {
-      "id": "GkTyKAU8Ogg",
-      "videoId": "GkTyKAU8Ogg",
-      "title": "Como eu melhoro o meu relacionamento?",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/GkTyKAU8Ogg/hqdefault.jpg",
-      "publishedAt": "2026-07-07T00:42:37Z"
-    },
-    {
-      "id": "-UzZzGYwE_M",
-      "videoId": "-UzZzGYwE_M",
-      "title": "Um bom café não merece um copo de plástico",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/-UzZzGYwE_M/hqdefault.jpg",
-      "publishedAt": "2026-07-03T18:08:24Z"
     }
   ],
-  "lastUpdated": "2026-07-08T05:35:29.982Z"
+  "lastUpdated": "2026-07-09T06:26:11.644Z"
 }
