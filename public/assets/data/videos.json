@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "Wmxmi7r6T60",
+      "videoId": "Wmxmi7r6T60",
+      "title": "Nem tudo é sobre você !",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/Wmxmi7r6T60/hqdefault.jpg",
+      "publishedAt": "2026-07-09T14:04:14Z"
+    },
+    {
       "id": "XDAcwQa-mJE",
       "videoId": "XDAcwQa-mJE",
       "title": ":)",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/BsB6avLokoo/hqdefault.jpg",
       "publishedAt": "2026-07-08T04:00:38Z"
-    },
-    {
-      "id": "R-OzJ-Hbg1E",
-      "videoId": "R-OzJ-Hbg1E",
-      "title": "Qual a frequência correta de intimidade do casal ?",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/R-OzJ-Hbg1E/hqdefault.jpg",
-      "publishedAt": "2026-07-07T14:50:46Z"
     }
   ],
-  "lastUpdated": "2026-07-09T06:26:11.644Z"
+  "lastUpdated": "2026-07-10T06:24:46.204Z"
 }
