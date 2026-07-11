@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "M-UbrT1fa7Y",
+      "videoId": "M-UbrT1fa7Y",
+      "title": "10 de julho de 2026",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/M-UbrT1fa7Y/hqdefault.jpg",
+      "publishedAt": "2026-07-11T02:35:11Z"
+    },
+    {
       "id": "Wmxmi7r6T60",
       "videoId": "Wmxmi7r6T60",
       "title": "Nem tudo é sobre você !",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/W-w5s3T6ZqU/hqdefault.jpg",
       "publishedAt": "2026-07-08T15:33:18Z"
-    },
-    {
-      "id": "BsB6avLokoo",
-      "videoId": "BsB6avLokoo",
-      "title": "Você precisa repensar sobre isso…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/BsB6avLokoo/hqdefault.jpg",
-      "publishedAt": "2026-07-08T04:00:38Z"
     }
   ],
-  "lastUpdated": "2026-07-10T06:24:46.204Z"
+  "lastUpdated": "2026-07-11T05:25:25.945Z"
 }
