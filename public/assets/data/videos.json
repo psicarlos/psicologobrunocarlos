@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "x3Ob03efbCI",
+      "videoId": "x3Ob03efbCI",
+      "title": "“Arrumei o gordinho e ele me deixou”…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/x3Ob03efbCI/hqdefault.jpg",
+      "publishedAt": "2026-07-13T22:54:35Z"
+    },
+    {
       "id": "NkOvNMykwOg",
       "videoId": "NkOvNMykwOg",
       "title": "Amizade com ex… é um caminho complicado !!",
@@ -9,29 +17,21 @@
       "publishedAt": "2026-07-11T16:34:32Z"
     },
     {
-      "id": "M-UbrT1fa7Y",
-      "videoId": "M-UbrT1fa7Y",
-      "title": "10 de julho de 2026",
+      "id": "GkTyKAU8Ogg",
+      "videoId": "GkTyKAU8Ogg",
+      "title": "Como eu melhoro o meu relacionamento?",
       "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/M-UbrT1fa7Y/hqdefault.jpg",
-      "publishedAt": "2026-07-11T02:35:11Z"
+      "thumbnail": "https://i.ytimg.com/vi/GkTyKAU8Ogg/hqdefault.jpg",
+      "publishedAt": "2026-07-07T00:42:37Z"
     },
     {
-      "id": "Wmxmi7r6T60",
-      "videoId": "Wmxmi7r6T60",
-      "title": "Nem tudo é sobre você !",
+      "id": "jR-XxzFoctw",
+      "videoId": "jR-XxzFoctw",
+      "title": "Trabalhamos para que vocês não precisem mais da gente …",
       "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/Wmxmi7r6T60/hqdefault.jpg",
-      "publishedAt": "2026-07-09T14:04:14Z"
-    },
-    {
-      "id": "XDAcwQa-mJE",
-      "videoId": "XDAcwQa-mJE",
-      "title": ":)",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/XDAcwQa-mJE/hqdefault.jpg",
-      "publishedAt": "2026-07-08T19:29:18Z"
+      "thumbnail": "https://i.ytimg.com/vi/jR-XxzFoctw/hqdefault.jpg",
+      "publishedAt": "2026-06-30T16:37:08Z"
     }
   ],
-  "lastUpdated": "2026-07-13T05:51:49.228Z"
+  "lastUpdated": "2026-07-14T05:12:50.390Z"
 }
