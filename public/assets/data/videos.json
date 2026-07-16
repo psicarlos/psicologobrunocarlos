@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "6TvUf6W5gB4",
+      "videoId": "6TvUf6W5gB4",
+      "title": "É assim com vocês também ?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/6TvUf6W5gB4/hqdefault.jpg",
+      "publishedAt": "2026-07-15T13:11:50Z"
+    },
+    {
       "id": "yc6NJldmzSk",
       "videoId": "yc6NJldmzSk",
       "title": "O seu marido não consegue dizer não a você !",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/NkOvNMykwOg/hqdefault.jpg",
       "publishedAt": "2026-07-11T16:34:32Z"
-    },
-    {
-      "id": "M-UbrT1fa7Y",
-      "videoId": "M-UbrT1fa7Y",
-      "title": "10 de julho de 2026",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/M-UbrT1fa7Y/hqdefault.jpg",
-      "publishedAt": "2026-07-11T02:35:11Z"
     }
   ],
-  "lastUpdated": "2026-07-15T05:13:38.362Z"
+  "lastUpdated": "2026-07-16T05:24:01.935Z"
 }
