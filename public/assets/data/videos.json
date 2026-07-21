@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "ez5CaSxZrzM",
+      "videoId": "ez5CaSxZrzM",
+      "title": "Se você não quer mudar, não atrapalhe quem está empenhado a isso!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/ez5CaSxZrzM/hqdefault.jpg",
+      "publishedAt": "2026-07-20T20:44:11Z"
+    },
+    {
       "id": "gC-Z1dLq3yU",
       "videoId": "gC-Z1dLq3yU",
       "title": "E ainda sim, você não cuida …",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/aMAGBXEU1QI/hqdefault.jpg",
       "publishedAt": "2026-07-18T16:30:48Z"
-    },
-    {
-      "id": "XyRaAoLiAI0",
-      "videoId": "XyRaAoLiAI0",
-      "title": "Serve para o sábado também kkk",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/XyRaAoLiAI0/hqdefault.jpg",
-      "publishedAt": "2026-07-18T16:22:24Z"
     }
   ],
-  "lastUpdated": "2026-07-20T05:52:46.355Z"
+  "lastUpdated": "2026-07-21T05:34:53.206Z"
 }
