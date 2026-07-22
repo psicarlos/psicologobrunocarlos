@@ -1,6 +1,22 @@
 {
   "videos": [
     {
+      "id": "myOEwhwCdyQ",
+      "videoId": "myOEwhwCdyQ",
+      "title": "Terapia é exercício físico",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/myOEwhwCdyQ/hqdefault.jpg",
+      "publishedAt": "2026-07-22T03:00:13Z"
+    },
+    {
+      "id": "mbNRPKUXNmI",
+      "videoId": "mbNRPKUXNmI",
+      "title": "Oi, como é que Ce tá ?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/mbNRPKUXNmI/hqdefault.jpg",
+      "publishedAt": "2026-07-21T22:30:20Z"
+    },
+    {
       "id": "ez5CaSxZrzM",
       "videoId": "ez5CaSxZrzM",
       "title": "Se você não quer mudar, não atrapalhe quem está empenhado a isso!",
@@ -15,23 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/gC-Z1dLq3yU/hqdefault.jpg",
       "publishedAt": "2026-07-18T16:47:47Z"
-    },
-    {
-      "id": "Q6sN6KrZ_EY",
-      "videoId": "Q6sN6KrZ_EY",
-      "title": "Pensando em me separar …",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/Q6sN6KrZ_EY/hqdefault.jpg",
-      "publishedAt": "2026-07-18T16:37:30Z"
-    },
-    {
-      "id": "aMAGBXEU1QI",
-      "videoId": "aMAGBXEU1QI",
-      "title": "Quando se tem vontade, é diferente…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/aMAGBXEU1QI/hqdefault.jpg",
-      "publishedAt": "2026-07-18T16:30:48Z"
     }
   ],
-  "lastUpdated": "2026-07-21T05:34:53.206Z"
+  "lastUpdated": "2026-07-22T05:32:59.303Z"
 }
