@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "lOSyqtpMupI",
+      "videoId": "lOSyqtpMupI",
+      "title": "Você tá cobrando algo impossível dele",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/lOSyqtpMupI/hqdefault.jpg",
+      "publishedAt": "2026-07-24T03:00:09Z"
+    },
+    {
       "id": "myOEwhwCdyQ",
       "videoId": "myOEwhwCdyQ",
       "title": "Terapia é exercício físico",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/ez5CaSxZrzM/hqdefault.jpg",
       "publishedAt": "2026-07-20T20:44:11Z"
-    },
-    {
-      "id": "gC-Z1dLq3yU",
-      "videoId": "gC-Z1dLq3yU",
-      "title": "E ainda sim, você não cuida …",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/gC-Z1dLq3yU/hqdefault.jpg",
-      "publishedAt": "2026-07-18T16:47:47Z"
     }
   ],
-  "lastUpdated": "2026-07-23T05:38:12.264Z"
+  "lastUpdated": "2026-07-24T05:34:27.308Z"
 }
