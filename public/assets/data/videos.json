@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "_ZQLVPaAFf4",
+      "videoId": "_ZQLVPaAFf4",
+      "title": "Meu marido desistiu de cuidar da própria saúde…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/_ZQLVPaAFf4/hqdefault.jpg",
+      "publishedAt": "2026-07-25T03:00:36Z"
+    },
+    {
       "id": "lOSyqtpMupI",
       "videoId": "lOSyqtpMupI",
       "title": "Você tá cobrando algo impossível dele",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/mbNRPKUXNmI/hqdefault.jpg",
       "publishedAt": "2026-07-21T22:30:20Z"
-    },
-    {
-      "id": "ez5CaSxZrzM",
-      "videoId": "ez5CaSxZrzM",
-      "title": "Se você não quer mudar, não atrapalhe quem está empenhado a isso!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/ez5CaSxZrzM/hqdefault.jpg",
-      "publishedAt": "2026-07-20T20:44:11Z"
     }
   ],
-  "lastUpdated": "2026-07-24T05:34:27.308Z"
+  "lastUpdated": "2026-07-25T05:27:16.546Z"
 }
