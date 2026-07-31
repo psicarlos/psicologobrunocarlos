@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "sKuIXvjvd9s",
+      "videoId": "sKuIXvjvd9s",
+      "title": "Se eu for na terapia, quem chora é o psicólogo…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/sKuIXvjvd9s/hqdefault.jpg",
+      "publishedAt": "2026-07-30T15:00:27Z"
+    },
+    {
       "id": "MkOY122z9RY",
       "videoId": "MkOY122z9RY",
       "title": "O relógio é só trocar a pulseira, mas e o seu casamento?",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/x84THY7w-bg/hqdefault.jpg",
       "publishedAt": "2026-07-27T15:00:21Z"
-    },
-    {
-      "id": "_ZQLVPaAFf4",
-      "videoId": "_ZQLVPaAFf4",
-      "title": "Meu marido desistiu de cuidar da própria saúde…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/_ZQLVPaAFf4/hqdefault.jpg",
-      "publishedAt": "2026-07-25T03:00:36Z"
     }
   ],
-  "lastUpdated": "2026-07-30T05:22:50.286Z"
+  "lastUpdated": "2026-07-31T05:49:18.216Z"
 }
