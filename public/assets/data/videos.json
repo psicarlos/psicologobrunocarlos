@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "M5B7ABkwPNk",
+      "videoId": "M5B7ABkwPNk",
+      "title": "Comece o quanto antes",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/M5B7ABkwPNk/hqdefault.jpg",
+      "publishedAt": "2026-07-31T15:00:21Z"
+    },
+    {
       "id": "sKuIXvjvd9s",
       "videoId": "sKuIXvjvd9s",
       "title": "Se eu for na terapia, quem chora é o psicólogo…",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/VlVNbXte4-M/hqdefault.jpg",
       "publishedAt": "2026-07-28T15:00:39Z"
-    },
-    {
-      "id": "x84THY7w-bg",
-      "videoId": "x84THY7w-bg",
-      "title": "Entender o que houve não lhe fará concordar com que o outro pode voltar a fazer",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/x84THY7w-bg/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:00:21Z"
     }
   ],
-  "lastUpdated": "2026-07-31T05:49:18.216Z"
+  "lastUpdated": "2026-08-01T05:39:55.576Z"
 }
