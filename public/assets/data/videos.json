@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "1JfL1WLEyt8",
+      "videoId": "1JfL1WLEyt8",
+      "title": "Rotina não atrapalha relacionamento!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/1JfL1WLEyt8/hqdefault.jpg",
+      "publishedAt": "2026-08-01T15:00:34Z"
+    },
+    {
       "id": "M5B7ABkwPNk",
       "videoId": "M5B7ABkwPNk",
       "title": "Comece o quanto antes",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/MkOY122z9RY/hqdefault.jpg",
       "publishedAt": "2026-07-29T15:00:28Z"
-    },
-    {
-      "id": "VlVNbXte4-M",
-      "videoId": "VlVNbXte4-M",
-      "title": "Isso fala mais sobre ele do que sobre você !",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/VlVNbXte4-M/hqdefault.jpg",
-      "publishedAt": "2026-07-28T15:00:39Z"
     }
   ],
-  "lastUpdated": "2026-08-01T05:39:55.576Z"
+  "lastUpdated": "2026-08-02T05:40:25.351Z"
 }
