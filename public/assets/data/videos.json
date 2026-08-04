@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "jiT5_F0q4E0",
+      "videoId": "jiT5_F0q4E0",
+      "title": "Vocês assistem programas que falam de relacionamento?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/jiT5_F0q4E0/hqdefault.jpg",
+      "publishedAt": "2026-08-03T15:00:19Z"
+    },
+    {
       "id": "1JfL1WLEyt8",
       "videoId": "1JfL1WLEyt8",
       "title": "Rotina não atrapalha relacionamento!",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/sKuIXvjvd9s/hqdefault.jpg",
       "publishedAt": "2026-07-30T15:00:27Z"
-    },
-    {
-      "id": "MkOY122z9RY",
-      "videoId": "MkOY122z9RY",
-      "title": "O relógio é só trocar a pulseira, mas e o seu casamento?",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/MkOY122z9RY/hqdefault.jpg",
-      "publishedAt": "2026-07-29T15:00:28Z"
     }
   ],
-  "lastUpdated": "2026-08-03T05:56:07.951Z"
+  "lastUpdated": "2026-08-04T05:29:21.452Z"
 }
