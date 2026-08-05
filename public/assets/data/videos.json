@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "pvSk-Y9QJWE",
+      "videoId": "pvSk-Y9QJWE",
+      "title": "É certo agir, antes que chegue a esse ponto",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/pvSk-Y9QJWE/hqdefault.jpg",
+      "publishedAt": "2026-08-04T15:00:04Z"
+    },
+    {
       "id": "jiT5_F0q4E0",
       "videoId": "jiT5_F0q4E0",
       "title": "Vocês assistem programas que falam de relacionamento?",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/M5B7ABkwPNk/hqdefault.jpg",
       "publishedAt": "2026-07-31T15:00:21Z"
-    },
-    {
-      "id": "sKuIXvjvd9s",
-      "videoId": "sKuIXvjvd9s",
-      "title": "Se eu for na terapia, quem chora é o psicólogo…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/sKuIXvjvd9s/hqdefault.jpg",
-      "publishedAt": "2026-07-30T15:00:27Z"
     }
   ],
-  "lastUpdated": "2026-08-04T05:29:21.452Z"
+  "lastUpdated": "2026-08-05T05:28:29.407Z"
 }
