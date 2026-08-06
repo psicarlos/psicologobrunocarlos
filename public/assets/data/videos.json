@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "9J3ipG85WJs",
+      "videoId": "9J3ipG85WJs",
+      "title": "Todo relacionamento existem os inegociáveis, que virão a ser acordos que definem os limites.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/9J3ipG85WJs/hqdefault.jpg",
+      "publishedAt": "2026-08-05T15:00:29Z"
+    },
+    {
       "id": "pvSk-Y9QJWE",
       "videoId": "pvSk-Y9QJWE",
       "title": "É certo agir, antes que chegue a esse ponto",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/1JfL1WLEyt8/hqdefault.jpg",
       "publishedAt": "2026-08-01T15:00:34Z"
-    },
-    {
-      "id": "M5B7ABkwPNk",
-      "videoId": "M5B7ABkwPNk",
-      "title": "Comece o quanto antes",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/M5B7ABkwPNk/hqdefault.jpg",
-      "publishedAt": "2026-07-31T15:00:21Z"
     }
   ],
-  "lastUpdated": "2026-08-05T05:28:29.407Z"
+  "lastUpdated": "2026-08-06T05:31:29.041Z"
 }
