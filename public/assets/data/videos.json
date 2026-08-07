@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "Szk4F95PloQ",
+      "videoId": "Szk4F95PloQ",
+      "title": "A prática é que consolida",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/Szk4F95PloQ/hqdefault.jpg",
+      "publishedAt": "2026-08-06T15:00:07Z"
+    },
+    {
       "id": "9J3ipG85WJs",
       "videoId": "9J3ipG85WJs",
       "title": "Todo relacionamento existem os inegociáveis, que virão a ser acordos que definem os limites.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/jiT5_F0q4E0/hqdefault.jpg",
       "publishedAt": "2026-08-03T15:00:19Z"
-    },
-    {
-      "id": "1JfL1WLEyt8",
-      "videoId": "1JfL1WLEyt8",
-      "title": "Rotina não atrapalha relacionamento!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/1JfL1WLEyt8/hqdefault.jpg",
-      "publishedAt": "2026-08-01T15:00:34Z"
     }
   ],
-  "lastUpdated": "2026-08-06T05:31:29.041Z"
+  "lastUpdated": "2026-08-07T04:35:48.387Z"
 }
