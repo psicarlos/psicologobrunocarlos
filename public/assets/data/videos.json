@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "1Oq5eoQ57To",
+      "videoId": "1Oq5eoQ57To",
+      "title": "Porque você faz essas coisas ?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/1Oq5eoQ57To/hqdefault.jpg",
+      "publishedAt": "2026-08-07T15:00:39Z"
+    },
+    {
       "id": "Szk4F95PloQ",
       "videoId": "Szk4F95PloQ",
       "title": "A prática é que consolida",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/pvSk-Y9QJWE/hqdefault.jpg",
       "publishedAt": "2026-08-04T15:00:04Z"
-    },
-    {
-      "id": "jiT5_F0q4E0",
-      "videoId": "jiT5_F0q4E0",
-      "title": "Vocês assistem programas que falam de relacionamento?",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/jiT5_F0q4E0/hqdefault.jpg",
-      "publishedAt": "2026-08-03T15:00:19Z"
     }
   ],
-  "lastUpdated": "2026-08-07T04:35:48.387Z"
+  "lastUpdated": "2026-08-08T03:49:18.107Z"
 }
