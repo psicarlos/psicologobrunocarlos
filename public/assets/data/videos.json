@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "eS9GXtMWJ8Y",
+      "videoId": "eS9GXtMWJ8Y",
+      "title": "Assim fica a sala, após um atendimento de casal…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/eS9GXtMWJ8Y/hqdefault.jpg",
+      "publishedAt": "2026-08-10T15:00:08Z"
+    },
+    {
       "id": "ybQh7St2z_k",
       "videoId": "ybQh7St2z_k",
       "title": "Esses são os motivos que tornam o ato de somente intender insuficiente.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/Szk4F95PloQ/hqdefault.jpg",
       "publishedAt": "2026-08-06T15:00:07Z"
-    },
-    {
-      "id": "9J3ipG85WJs",
-      "videoId": "9J3ipG85WJs",
-      "title": "Todo relacionamento existem os inegociáveis, que virão a ser acordos que definem os limites.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/9J3ipG85WJs/hqdefault.jpg",
-      "publishedAt": "2026-08-05T15:00:29Z"
     }
   ],
-  "lastUpdated": "2026-08-10T04:11:40.396Z"
+  "lastUpdated": "2026-08-11T03:58:58.348Z"
 }
