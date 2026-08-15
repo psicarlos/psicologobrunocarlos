@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "wP8PxIHY93Q",
+      "videoId": "wP8PxIHY93Q",
+      "title": "Se você entende, por favor, me esclareça nos comentários!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/wP8PxIHY93Q/hqdefault.jpg",
+      "publishedAt": "2026-08-14T15:00:22Z"
+    },
+    {
       "id": "HlL37szKglI",
       "videoId": "HlL37szKglI",
       "title": "Dica para melhorar a vida a dois.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/eS9GXtMWJ8Y/hqdefault.jpg",
       "publishedAt": "2026-08-10T15:00:08Z"
-    },
-    {
-      "id": "ybQh7St2z_k",
-      "videoId": "ybQh7St2z_k",
-      "title": "Esses são os motivos que tornam o ato de somente intender insuficiente.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/ybQh7St2z_k/hqdefault.jpg",
-      "publishedAt": "2026-08-08T15:00:33Z"
     }
   ],
-  "lastUpdated": "2026-08-14T04:21:24.634Z"
+  "lastUpdated": "2026-08-15T03:11:22.073Z"
 }
