@@ -1,6 +1,22 @@
 {
   "videos": [
     {
+      "id": "gVAGKwLGlZg",
+      "videoId": "gVAGKwLGlZg",
+      "title": "Feliz dia do psicólogo!!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/gVAGKwLGlZg/hqdefault.jpg",
+      "publishedAt": "2026-08-27T20:09:24Z"
+    },
+    {
+      "id": "sRZ8GTzOWRs",
+      "videoId": "sRZ8GTzOWRs",
+      "title": "Sorte no azar seria perder alguém que ama ?",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/sRZ8GTzOWRs/hqdefault.jpg",
+      "publishedAt": "2026-08-27T17:59:15Z"
+    },
+    {
       "id": "hn87-qYyLJs",
       "videoId": "hn87-qYyLJs",
       "title": "Responsabilidades intransferíveis no casamento.",
@@ -15,23 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/5RgzhDe3pB8/hqdefault.jpg",
       "publishedAt": "2026-08-26T12:53:08Z"
-    },
-    {
-      "id": "wP8PxIHY93Q",
-      "videoId": "wP8PxIHY93Q",
-      "title": "Se você entende, por favor, me esclareça nos comentários!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/wP8PxIHY93Q/hqdefault.jpg",
-      "publishedAt": "2026-08-14T15:00:22Z"
-    },
-    {
-      "id": "HlL37szKglI",
-      "videoId": "HlL37szKglI",
-      "title": "Dica para melhorar a vida a dois.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/HlL37szKglI/hqdefault.jpg",
-      "publishedAt": "2026-08-13T15:00:13Z"
     }
   ],
-  "lastUpdated": "2026-08-27T12:57:51.364Z"
+  "lastUpdated": "2026-08-28T14:29:03.570Z"
 }
