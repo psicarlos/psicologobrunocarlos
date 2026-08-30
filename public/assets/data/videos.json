@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "yW_aM0uL0Xk",
+      "videoId": "yW_aM0uL0Xk",
+      "title": "Bom final de semana !!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/yW_aM0uL0Xk/hqdefault.jpg",
+      "publishedAt": "2026-08-29T15:23:29Z"
+    },
+    {
       "id": "yQ3FzTctOUM",
       "videoId": "yQ3FzTctOUM",
       "title": "Cuide do seu relacionamento e deixe em paz o do outro!",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/sRZ8GTzOWRs/hqdefault.jpg",
       "publishedAt": "2026-08-27T17:59:15Z"
-    },
-    {
-      "id": "hn87-qYyLJs",
-      "videoId": "hn87-qYyLJs",
-      "title": "Responsabilidades intransferíveis no casamento.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/hn87-qYyLJs/hqdefault.jpg",
-      "publishedAt": "2026-08-26T12:54:53Z"
     }
   ],
-  "lastUpdated": "2026-08-29T09:15:12.110Z"
+  "lastUpdated": "2026-08-30T08:27:06.849Z"
 }
