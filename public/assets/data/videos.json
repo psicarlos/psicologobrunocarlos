@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "8QxB6g4EtYw",
+      "videoId": "8QxB6g4EtYw",
+      "title": "Preocupação que muda de lugar…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/8QxB6g4EtYw/hqdefault.jpg",
+      "publishedAt": "2026-08-31T20:00:40Z"
+    },
+    {
       "id": "yW_aM0uL0Xk",
       "videoId": "yW_aM0uL0Xk",
       "title": "Bom final de semana !!",
@@ -17,21 +25,13 @@
       "publishedAt": "2026-08-28T15:25:39Z"
     },
     {
-      "id": "gVAGKwLGlZg",
-      "videoId": "gVAGKwLGlZg",
-      "title": "Feliz dia do psicólogo!!",
+      "id": "wP8PxIHY93Q",
+      "videoId": "wP8PxIHY93Q",
+      "title": "Se você entende, por favor, me esclareça nos comentários!",
       "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/gVAGKwLGlZg/hqdefault.jpg",
-      "publishedAt": "2026-08-27T20:09:24Z"
-    },
-    {
-      "id": "sRZ8GTzOWRs",
-      "videoId": "sRZ8GTzOWRs",
-      "title": "Sorte no azar seria perder alguém que ama ?",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/sRZ8GTzOWRs/hqdefault.jpg",
-      "publishedAt": "2026-08-27T17:59:15Z"
+      "thumbnail": "https://i.ytimg.com/vi/wP8PxIHY93Q/hqdefault.jpg",
+      "publishedAt": "2026-08-14T15:00:22Z"
     }
   ],
-  "lastUpdated": "2026-08-31T08:47:49.124Z"
+  "lastUpdated": "2026-09-01T07:55:18.356Z"
 }
