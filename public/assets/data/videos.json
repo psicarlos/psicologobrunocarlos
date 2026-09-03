@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "wPPpyCqiT2U",
+      "videoId": "wPPpyCqiT2U",
+      "title": "Precisamos disso!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/wPPpyCqiT2U/hqdefault.jpg",
+      "publishedAt": "2026-09-03T00:44:42Z"
+    },
+    {
       "id": "qijNPIGAF2M",
       "videoId": "qijNPIGAF2M",
       "title": "Um brinde !! 🥂",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/yQ3FzTctOUM/hqdefault.jpg",
       "publishedAt": "2026-08-28T15:25:39Z"
-    },
-    {
-      "id": "wP8PxIHY93Q",
-      "videoId": "wP8PxIHY93Q",
-      "title": "Se você entende, por favor, me esclareça nos comentários!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/wP8PxIHY93Q/hqdefault.jpg",
-      "publishedAt": "2026-08-14T15:00:22Z"
     }
   ],
-  "lastUpdated": "2026-09-02T07:14:19.675Z"
+  "lastUpdated": "2026-09-03T07:18:00.658Z"
 }
