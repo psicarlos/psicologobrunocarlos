@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "LDlSKMiIxso",
+      "videoId": "LDlSKMiIxso",
+      "title": "Casamento dá trabalho de vários tipos…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/LDlSKMiIxso/hqdefault.jpg",
+      "publishedAt": "2026-09-03T15:16:27Z"
+    },
+    {
       "id": "wPPpyCqiT2U",
       "videoId": "wPPpyCqiT2U",
       "title": "Precisamos disso!",
@@ -17,14 +25,6 @@
       "publishedAt": "2026-09-01T11:00:05Z"
     },
     {
-      "id": "8QxB6g4EtYw",
-      "videoId": "8QxB6g4EtYw",
-      "title": "Preocupação que muda de lugar…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/8QxB6g4EtYw/hqdefault.jpg",
-      "publishedAt": "2026-08-31T20:00:40Z"
-    },
-    {
       "id": "yQ3FzTctOUM",
       "videoId": "yQ3FzTctOUM",
       "title": "Cuide do seu relacionamento e deixe em paz o do outro!",
@@ -33,5 +33,5 @@
       "publishedAt": "2026-08-28T15:25:39Z"
     }
   ],
-  "lastUpdated": "2026-09-03T07:18:00.658Z"
+  "lastUpdated": "2026-09-04T07:20:37.511Z"
 }
