@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "4fKUYjYdm6g",
+      "videoId": "4fKUYjYdm6g",
+      "title": "Prefere pagar do que está ali …",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/4fKUYjYdm6g/hqdefault.jpg",
+      "publishedAt": "2026-09-09T20:55:14Z"
+    },
+    {
       "id": "LDlSKMiIxso",
       "videoId": "LDlSKMiIxso",
       "title": "Casamento dá trabalho de vários tipos…",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/wP8PxIHY93Q/hqdefault.jpg",
       "publishedAt": "2026-08-14T15:00:22Z"
-    },
-    {
-      "id": "HlL37szKglI",
-      "videoId": "HlL37szKglI",
-      "title": "Dica para melhorar a vida a dois.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/HlL37szKglI/hqdefault.jpg",
-      "publishedAt": "2026-08-13T15:00:13Z"
     }
   ],
-  "lastUpdated": "2026-09-09T07:29:37.508Z"
+  "lastUpdated": "2026-09-10T07:26:08.669Z"
 }
