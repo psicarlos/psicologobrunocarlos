@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "9BYFxiznzdQ",
+      "videoId": "9BYFxiznzdQ",
+      "title": "Casal preconceituoso.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/9BYFxiznzdQ/hqdefault.jpg",
+      "publishedAt": "2026-09-10T11:00:22Z"
+    },
+    {
       "id": "4fKUYjYdm6g",
       "videoId": "4fKUYjYdm6g",
       "title": "Prefere pagar do que está ali …",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/yQ3FzTctOUM/hqdefault.jpg",
       "publishedAt": "2026-08-28T15:25:39Z"
-    },
-    {
-      "id": "wP8PxIHY93Q",
-      "videoId": "wP8PxIHY93Q",
-      "title": "Se você entende, por favor, me esclareça nos comentários!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/wP8PxIHY93Q/hqdefault.jpg",
-      "publishedAt": "2026-08-14T15:00:22Z"
     }
   ],
-  "lastUpdated": "2026-09-10T07:26:08.669Z"
+  "lastUpdated": "2026-09-11T07:24:06.333Z"
 }
