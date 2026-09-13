@@ -1,20 +1,20 @@
 {
   "videos": [
     {
+      "id": "1KyyklWnmFg",
+      "videoId": "1KyyklWnmFg",
+      "title": "Dicas para um casamento de longo prazo.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/1KyyklWnmFg/hqdefault.jpg",
+      "publishedAt": "2026-09-12T11:00:13Z"
+    },
+    {
       "id": "9BYFxiznzdQ",
       "videoId": "9BYFxiznzdQ",
       "title": "Casal preconceituoso.",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/9BYFxiznzdQ/hqdefault.jpg",
       "publishedAt": "2026-09-10T11:00:22Z"
-    },
-    {
-      "id": "4fKUYjYdm6g",
-      "videoId": "4fKUYjYdm6g",
-      "title": "Prefere pagar do que está ali …",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/4fKUYjYdm6g/hqdefault.jpg",
-      "publishedAt": "2026-09-09T20:55:14Z"
     },
     {
       "id": "LDlSKMiIxso",
@@ -33,5 +33,5 @@
       "publishedAt": "2026-08-28T15:25:39Z"
     }
   ],
-  "lastUpdated": "2026-09-12T07:16:30.190Z"
+  "lastUpdated": "2026-09-13T07:35:03.663Z"
 }
