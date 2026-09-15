@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "j-NcBvRWGlM",
+      "videoId": "j-NcBvRWGlM",
+      "title": "Você está diferente!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/j-NcBvRWGlM/hqdefault.jpg",
+      "publishedAt": "2026-09-14T11:00:31Z"
+    },
+    {
       "id": "1KyyklWnmFg",
       "videoId": "1KyyklWnmFg",
       "title": "Dicas para um casamento de longo prazo.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/LDlSKMiIxso/hqdefault.jpg",
       "publishedAt": "2026-09-03T15:16:27Z"
-    },
-    {
-      "id": "yQ3FzTctOUM",
-      "videoId": "yQ3FzTctOUM",
-      "title": "Cuide do seu relacionamento e deixe em paz o do outro!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/yQ3FzTctOUM/hqdefault.jpg",
-      "publishedAt": "2026-08-28T15:25:39Z"
     }
   ],
-  "lastUpdated": "2026-09-14T08:01:09.273Z"
+  "lastUpdated": "2026-09-15T07:56:24.234Z"
 }
