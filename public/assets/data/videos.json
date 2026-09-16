@@ -1,20 +1,20 @@
 {
   "videos": [
     {
+      "id": "h8y_CmnQoWQ",
+      "videoId": "h8y_CmnQoWQ",
+      "title": "No casamento, a certeza não anda junto com a interpretação",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/h8y_CmnQoWQ/hqdefault.jpg",
+      "publishedAt": "2026-09-15T11:00:39Z"
+    },
+    {
       "id": "j-NcBvRWGlM",
       "videoId": "j-NcBvRWGlM",
       "title": "Você está diferente!",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/j-NcBvRWGlM/hqdefault.jpg",
       "publishedAt": "2026-09-14T11:00:31Z"
-    },
-    {
-      "id": "1KyyklWnmFg",
-      "videoId": "1KyyklWnmFg",
-      "title": "Dicas para um casamento de longo prazo.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/1KyyklWnmFg/hqdefault.jpg",
-      "publishedAt": "2026-09-12T11:00:13Z"
     },
     {
       "id": "9BYFxiznzdQ",
@@ -33,5 +33,5 @@
       "publishedAt": "2026-09-03T15:16:27Z"
     }
   ],
-  "lastUpdated": "2026-09-15T07:56:24.234Z"
+  "lastUpdated": "2026-09-16T07:49:04.627Z"
 }
