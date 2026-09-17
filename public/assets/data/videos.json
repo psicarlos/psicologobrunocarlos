@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "hCj-sD7bXjI",
+      "videoId": "hCj-sD7bXjI",
+      "title": "Cheia de manias… ou só desculpas mesmo.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/hCj-sD7bXjI/hqdefault.jpg",
+      "publishedAt": "2026-09-16T11:00:02Z"
+    },
+    {
       "id": "h8y_CmnQoWQ",
       "videoId": "h8y_CmnQoWQ",
       "title": "No casamento, a certeza não anda junto com a interpretação",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/9BYFxiznzdQ/hqdefault.jpg",
       "publishedAt": "2026-09-10T11:00:22Z"
-    },
-    {
-      "id": "LDlSKMiIxso",
-      "videoId": "LDlSKMiIxso",
-      "title": "Casamento dá trabalho de vários tipos…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/LDlSKMiIxso/hqdefault.jpg",
-      "publishedAt": "2026-09-03T15:16:27Z"
     }
   ],
-  "lastUpdated": "2026-09-16T07:49:04.627Z"
+  "lastUpdated": "2026-09-17T07:53:54.182Z"
 }
