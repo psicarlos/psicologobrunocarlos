@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "q_RtUy9vDp8",
+      "videoId": "q_RtUy9vDp8",
+      "title": "Se um não quer dois não brigam, ou decidem …",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/q_RtUy9vDp8/hqdefault.jpg",
+      "publishedAt": "2026-09-17T11:00:18Z"
+    },
+    {
       "id": "hCj-sD7bXjI",
       "videoId": "hCj-sD7bXjI",
       "title": "Cheia de manias… ou só desculpas mesmo.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/j-NcBvRWGlM/hqdefault.jpg",
       "publishedAt": "2026-09-14T11:00:31Z"
-    },
-    {
-      "id": "9BYFxiznzdQ",
-      "videoId": "9BYFxiznzdQ",
-      "title": "Casal preconceituoso.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/9BYFxiznzdQ/hqdefault.jpg",
-      "publishedAt": "2026-09-10T11:00:22Z"
     }
   ],
-  "lastUpdated": "2026-09-17T07:53:54.182Z"
+  "lastUpdated": "2026-09-18T07:32:35.543Z"
 }
