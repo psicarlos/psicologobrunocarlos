@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "LwcBsAHAQLI",
+      "videoId": "LwcBsAHAQLI",
+      "title": "Tomar decisão é fácil, difícil é sustentar…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/LwcBsAHAQLI/hqdefault.jpg",
+      "publishedAt": "2026-09-18T11:00:10Z"
+    },
+    {
       "id": "q_RtUy9vDp8",
       "videoId": "q_RtUy9vDp8",
       "title": "Se um não quer dois não brigam, ou decidem …",
@@ -17,14 +25,6 @@
       "publishedAt": "2026-09-16T11:00:02Z"
     },
     {
-      "id": "h8y_CmnQoWQ",
-      "videoId": "h8y_CmnQoWQ",
-      "title": "No casamento, a certeza não anda junto com a interpretação",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/h8y_CmnQoWQ/hqdefault.jpg",
-      "publishedAt": "2026-09-15T11:00:39Z"
-    },
-    {
       "id": "j-NcBvRWGlM",
       "videoId": "j-NcBvRWGlM",
       "title": "Você está diferente!",
@@ -33,5 +33,5 @@
       "publishedAt": "2026-09-14T11:00:31Z"
     }
   ],
-  "lastUpdated": "2026-09-18T07:32:35.543Z"
+  "lastUpdated": "2026-09-19T07:27:33.035Z"
 }
