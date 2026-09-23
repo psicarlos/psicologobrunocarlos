@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "kVXrUsItjSU",
+      "videoId": "kVXrUsItjSU",
+      "title": "Resistência a mudança.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/kVXrUsItjSU/hqdefault.jpg",
+      "publishedAt": "2026-09-22T11:00:35Z"
+    },
+    {
       "id": "BPYsASlIgm0",
       "videoId": "BPYsASlIgm0",
       "title": "Desistiu de insistir por não acreditar mais na mudança.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/9BYFxiznzdQ/hqdefault.jpg",
       "publishedAt": "2026-09-10T11:00:22Z"
-    },
-    {
-      "id": "LDlSKMiIxso",
-      "videoId": "LDlSKMiIxso",
-      "title": "Casamento dá trabalho de vários tipos…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/LDlSKMiIxso/hqdefault.jpg",
-      "publishedAt": "2026-09-03T15:16:27Z"
     }
   ],
-  "lastUpdated": "2026-09-22T07:51:20.278Z"
+  "lastUpdated": "2026-09-23T07:53:12.402Z"
 }
