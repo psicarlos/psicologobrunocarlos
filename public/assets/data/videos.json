@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "ULnkZG5FoCk",
+      "videoId": "ULnkZG5FoCk",
+      "title": "Ninguém consegue…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/ULnkZG5FoCk/hqdefault.jpg",
+      "publishedAt": "2026-09-23T11:00:29Z"
+    },
+    {
       "id": "kVXrUsItjSU",
       "videoId": "kVXrUsItjSU",
       "title": "Resistência a mudança.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/j-NcBvRWGlM/hqdefault.jpg",
       "publishedAt": "2026-09-14T11:00:31Z"
-    },
-    {
-      "id": "9BYFxiznzdQ",
-      "videoId": "9BYFxiznzdQ",
-      "title": "Casal preconceituoso.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/9BYFxiznzdQ/hqdefault.jpg",
-      "publishedAt": "2026-09-10T11:00:22Z"
     }
   ],
-  "lastUpdated": "2026-09-23T07:53:12.402Z"
+  "lastUpdated": "2026-09-24T07:43:30.883Z"
 }
