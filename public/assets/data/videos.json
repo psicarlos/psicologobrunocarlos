@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "mu0BSQ_JkB4",
+      "videoId": "mu0BSQ_JkB4",
+      "title": "Recaídas com um narcisista.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/mu0BSQ_JkB4/hqdefault.jpg",
+      "publishedAt": "2026-09-25T11:00:07Z"
+    },
+    {
       "id": "U0Od_qQ570Y",
       "videoId": "U0Od_qQ570Y",
       "title": ".",
@@ -17,14 +25,6 @@
       "publishedAt": "2026-09-23T11:00:29Z"
     },
     {
-      "id": "kVXrUsItjSU",
-      "videoId": "kVXrUsItjSU",
-      "title": "Resistência a mudança.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/kVXrUsItjSU/hqdefault.jpg",
-      "publishedAt": "2026-09-22T11:00:35Z"
-    },
-    {
       "id": "j-NcBvRWGlM",
       "videoId": "j-NcBvRWGlM",
       "title": "Você está diferente!",
@@ -33,5 +33,5 @@
       "publishedAt": "2026-09-14T11:00:31Z"
     }
   ],
-  "lastUpdated": "2026-09-25T08:03:27.182Z"
+  "lastUpdated": "2026-09-26T07:55:00.936Z"
 }
