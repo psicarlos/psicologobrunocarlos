@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "KU8pemxxUck",
+      "videoId": "KU8pemxxUck",
+      "title": "Me siga e assista aos vídeos anteriores e deixe seu comentário.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/KU8pemxxUck/hqdefault.jpg",
+      "publishedAt": "2026-09-30T11:00:32Z"
+    },
+    {
       "id": "OtnZCXEmyoI",
       "videoId": "OtnZCXEmyoI",
       "title": "O que os olhos não veem o coração não sente…",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/U0Od_qQ570Y/hqdefault.jpg",
       "publishedAt": "2026-09-24T11:00:30Z"
-    },
-    {
-      "id": "j-NcBvRWGlM",
-      "videoId": "j-NcBvRWGlM",
-      "title": "Você está diferente!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/j-NcBvRWGlM/hqdefault.jpg",
-      "publishedAt": "2026-09-14T11:00:31Z"
     }
   ],
-  "lastUpdated": "2026-09-30T08:50:22.812Z"
+  "lastUpdated": "2026-10-01T09:14:04.155Z"
 }
