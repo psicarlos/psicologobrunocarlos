@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "J7WbsM9Vp7A",
+      "videoId": "J7WbsM9Vp7A",
+      "title": "Nenhum casamento se separa frente a um grande problema. Você não tropeça na montanha, já nas pedras",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/J7WbsM9Vp7A/hqdefault.jpg",
+      "publishedAt": "2026-10-01T11:00:03Z"
+    },
+    {
       "id": "KU8pemxxUck",
       "videoId": "KU8pemxxUck",
       "title": "Me siga e assista aos vídeos anteriores e deixe seu comentário.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/rsrgD8vTQHE/hqdefault.jpg",
       "publishedAt": "2026-09-28T23:00:18Z"
-    },
-    {
-      "id": "U0Od_qQ570Y",
-      "videoId": "U0Od_qQ570Y",
-      "title": ".",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/U0Od_qQ570Y/hqdefault.jpg",
-      "publishedAt": "2026-09-24T11:00:30Z"
     }
   ],
-  "lastUpdated": "2026-10-01T09:14:04.155Z"
+  "lastUpdated": "2026-10-02T08:47:58.551Z"
 }
