@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "P2GsEI9n-2Q",
+      "videoId": "P2GsEI9n-2Q",
+      "title": "Estão brigando sem saber o real porque",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/P2GsEI9n-2Q/hqdefault.jpg",
+      "publishedAt": "2026-10-02T11:00:12Z"
+    },
+    {
       "id": "J7WbsM9Vp7A",
       "videoId": "J7WbsM9Vp7A",
       "title": "Nenhum casamento se separa frente a um grande problema. Você não tropeça na montanha, já nas pedras",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/OtnZCXEmyoI/hqdefault.jpg",
       "publishedAt": "2026-09-29T11:00:39Z"
-    },
-    {
-      "id": "rsrgD8vTQHE",
-      "videoId": "rsrgD8vTQHE",
-      "title": "Desconto pelo atraso.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/rsrgD8vTQHE/hqdefault.jpg",
-      "publishedAt": "2026-09-28T23:00:18Z"
     }
   ],
-  "lastUpdated": "2026-10-02T08:47:58.551Z"
+  "lastUpdated": "2026-10-03T08:25:02.310Z"
 }
