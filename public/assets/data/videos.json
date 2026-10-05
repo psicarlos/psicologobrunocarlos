@@ -1,14 +1,6 @@
 {
   "videos": [
     {
-      "id": "P2GsEI9n-2Q",
-      "videoId": "P2GsEI9n-2Q",
-      "title": "Estão brigando sem saber o real porque",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/P2GsEI9n-2Q/hqdefault.jpg",
-      "publishedAt": "2026-10-02T11:00:12Z"
-    },
-    {
       "id": "J7WbsM9Vp7A",
       "videoId": "J7WbsM9Vp7A",
       "title": "Nenhum casamento se separa frente a um grande problema. Você não tropeça na montanha, já nas pedras",
@@ -17,21 +9,29 @@
       "publishedAt": "2026-10-01T11:00:03Z"
     },
     {
-      "id": "KU8pemxxUck",
-      "videoId": "KU8pemxxUck",
-      "title": "Me siga e assista aos vídeos anteriores e deixe seu comentário.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/KU8pemxxUck/hqdefault.jpg",
-      "publishedAt": "2026-09-30T11:00:32Z"
-    },
-    {
       "id": "OtnZCXEmyoI",
       "videoId": "OtnZCXEmyoI",
       "title": "O que os olhos não veem o coração não sente…",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/OtnZCXEmyoI/hqdefault.jpg",
       "publishedAt": "2026-09-29T11:00:39Z"
+    },
+    {
+      "id": "rsrgD8vTQHE",
+      "videoId": "rsrgD8vTQHE",
+      "title": "Desconto pelo atraso.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/rsrgD8vTQHE/hqdefault.jpg",
+      "publishedAt": "2026-09-28T23:00:18Z"
+    },
+    {
+      "id": "mu0BSQ_JkB4",
+      "videoId": "mu0BSQ_JkB4",
+      "title": "Recaídas com um narcisista.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/mu0BSQ_JkB4/hqdefault.jpg",
+      "publishedAt": "2026-09-25T11:00:07Z"
     }
   ],
-  "lastUpdated": "2026-10-04T08:38:14.206Z"
+  "lastUpdated": "2026-10-05T09:25:13.969Z"
 }
