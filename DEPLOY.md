@@ -31,10 +31,11 @@ Fluxo automático:
 ## 2. Vercel
 
 1. Acesse [vercel.com](https://vercel.com) e importe o repositório do GitHub
-2. A Vercel detecta o `vercel.json` com:
+2. Em **Settings → Build and Deployment → Node.js Version**, selecione **24.x** (o `package.json` já define `"engines": { "node": "24.x" }`)
+3. A Vercel detecta o `vercel.json` com:
    - `npm run build`
    - saída em `dist/psicarlos-site/browser`
-3. Cada push na branch de produção (ex.: `main`) gera um deploy automático
+4. Cada push na branch de produção (ex.: `main`) gera um deploy automático
 
 Não é necessário colocar a API do YouTube na Vercel — a atualização dos vídeos ocorre no GitHub Actions.
 
