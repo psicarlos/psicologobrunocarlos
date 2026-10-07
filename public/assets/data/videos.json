@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "UxE5lwcKgl0",
+      "videoId": "UxE5lwcKgl0",
+      "title": "Duvidas dos meus pacientes …",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/UxE5lwcKgl0/hqdefault.jpg",
+      "publishedAt": "2026-10-06T11:00:20Z"
+    },
+    {
       "id": "UnxCi1nqrRQ",
       "videoId": "UnxCi1nqrRQ",
       "title": "Intimidade demais gera perca de conexão?",
@@ -9,29 +17,21 @@
       "publishedAt": "2026-10-05T11:00:11Z"
     },
     {
+      "id": "P2GsEI9n-2Q",
+      "videoId": "P2GsEI9n-2Q",
+      "title": "Estão brigando sem saber o real porque",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/P2GsEI9n-2Q/hqdefault.jpg",
+      "publishedAt": "2026-10-02T11:00:12Z"
+    },
+    {
       "id": "J7WbsM9Vp7A",
       "videoId": "J7WbsM9Vp7A",
       "title": "Nenhum casamento se separa frente a um grande problema. Você não tropeça na montanha, já nas pedras",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/J7WbsM9Vp7A/hqdefault.jpg",
       "publishedAt": "2026-10-01T11:00:03Z"
-    },
-    {
-      "id": "KU8pemxxUck",
-      "videoId": "KU8pemxxUck",
-      "title": "Me siga e assista aos vídeos anteriores e deixe seu comentário.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/KU8pemxxUck/hqdefault.jpg",
-      "publishedAt": "2026-09-30T11:00:32Z"
-    },
-    {
-      "id": "OtnZCXEmyoI",
-      "videoId": "OtnZCXEmyoI",
-      "title": "O que os olhos não veem o coração não sente…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/OtnZCXEmyoI/hqdefault.jpg",
-      "publishedAt": "2026-09-29T11:00:39Z"
     }
   ],
-  "lastUpdated": "2026-10-06T09:12:17.709Z"
+  "lastUpdated": "2026-10-07T09:02:08.029Z"
 }
