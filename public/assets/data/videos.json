@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "PKsy9BSm2MA",
+      "videoId": "PKsy9BSm2MA",
+      "title": "Entender o problema, não promove mudança !",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/PKsy9BSm2MA/hqdefault.jpg",
+      "publishedAt": "2026-10-07T11:00:20Z"
+    },
+    {
       "id": "UxE5lwcKgl0",
       "videoId": "UxE5lwcKgl0",
       "title": "Duvidas dos meus pacientes …",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/P2GsEI9n-2Q/hqdefault.jpg",
       "publishedAt": "2026-10-02T11:00:12Z"
-    },
-    {
-      "id": "J7WbsM9Vp7A",
-      "videoId": "J7WbsM9Vp7A",
-      "title": "Nenhum casamento se separa frente a um grande problema. Você não tropeça na montanha, já nas pedras",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/J7WbsM9Vp7A/hqdefault.jpg",
-      "publishedAt": "2026-10-01T11:00:03Z"
     }
   ],
-  "lastUpdated": "2026-10-07T09:02:08.029Z"
+  "lastUpdated": "2026-10-08T09:17:50.043Z"
 }
