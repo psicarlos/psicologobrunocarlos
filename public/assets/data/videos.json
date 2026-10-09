@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "P_WTXRQl86U",
+      "videoId": "P_WTXRQl86U",
+      "title": "O problema do teu relacionamento não é a comunicação!!!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/P_WTXRQl86U/hqdefault.jpg",
+      "publishedAt": "2026-10-08T11:00:25Z"
+    },
+    {
       "id": "PKsy9BSm2MA",
       "videoId": "PKsy9BSm2MA",
       "title": "Entender o problema, não promove mudança !",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/UnxCi1nqrRQ/hqdefault.jpg",
       "publishedAt": "2026-10-05T11:00:11Z"
-    },
-    {
-      "id": "P2GsEI9n-2Q",
-      "videoId": "P2GsEI9n-2Q",
-      "title": "Estão brigando sem saber o real porque",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/P2GsEI9n-2Q/hqdefault.jpg",
-      "publishedAt": "2026-10-02T11:00:12Z"
     }
   ],
-  "lastUpdated": "2026-10-08T09:17:50.043Z"
+  "lastUpdated": "2026-10-09T09:24:44.574Z"
 }
