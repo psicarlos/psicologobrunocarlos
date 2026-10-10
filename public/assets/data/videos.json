@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "c375w_nQ3zg",
+      "videoId": "c375w_nQ3zg",
+      "title": "Não coloque palavras na boca de alguém…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/c375w_nQ3zg/hqdefault.jpg",
+      "publishedAt": "2026-10-09T11:00:14Z"
+    },
+    {
       "id": "P_WTXRQl86U",
       "videoId": "P_WTXRQl86U",
       "title": "O problema do teu relacionamento não é a comunicação!!!",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/UxE5lwcKgl0/hqdefault.jpg",
       "publishedAt": "2026-10-06T11:00:20Z"
-    },
-    {
-      "id": "UnxCi1nqrRQ",
-      "videoId": "UnxCi1nqrRQ",
-      "title": "Intimidade demais gera perca de conexão?",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/UnxCi1nqrRQ/hqdefault.jpg",
-      "publishedAt": "2026-10-05T11:00:11Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:24:44.574Z"
+  "lastUpdated": "2026-10-10T08:46:22.671Z"
 }
