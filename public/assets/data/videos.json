@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "HwPxL4O0GUk",
+      "videoId": "HwPxL4O0GUk",
+      "title": "Prefere brigar pelo erro do que admitir a necessidade de mudança.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/HwPxL4O0GUk/hqdefault.jpg",
+      "publishedAt": "2026-10-16T15:00:22Z"
+    },
+    {
       "id": "y8dlKLED1iQ",
       "videoId": "y8dlKLED1iQ",
       "title": "Cresceu sem aprender o básico…",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/c375w_nQ3zg/hqdefault.jpg",
       "publishedAt": "2026-10-09T11:00:14Z"
-    },
-    {
-      "id": "P_WTXRQl86U",
-      "videoId": "P_WTXRQl86U",
-      "title": "O problema do teu relacionamento não é a comunicação!!!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/P_WTXRQl86U/hqdefault.jpg",
-      "publishedAt": "2026-10-08T11:00:25Z"
     }
   ],
-  "lastUpdated": "2026-10-16T07:24:35.796Z"
+  "lastUpdated": "2026-10-17T07:06:13.742Z"
 }
