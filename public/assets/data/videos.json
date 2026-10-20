@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "ei5917MBvhk",
+      "videoId": "ei5917MBvhk",
+      "title": "Vocês estão juntos mas parecem separados.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/ei5917MBvhk/hqdefault.jpg",
+      "publishedAt": "2026-10-19T11:00:02Z"
+    },
+    {
       "id": "6pi51_-B84E",
       "videoId": "6pi51_-B84E",
       "title": "Casamento depois dos filhos, é diferente …",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/y8dlKLED1iQ/hqdefault.jpg",
       "publishedAt": "2026-10-14T11:00:25Z"
-    },
-    {
-      "id": "bqmRDEwv5ko",
-      "videoId": "bqmRDEwv5ko",
-      "title": "Machismo das mulheres.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/bqmRDEwv5ko/hqdefault.jpg",
-      "publishedAt": "2026-10-13T11:00:34Z"
     }
   ],
-  "lastUpdated": "2026-10-19T07:59:07.563Z"
+  "lastUpdated": "2026-10-20T07:49:23.236Z"
 }
