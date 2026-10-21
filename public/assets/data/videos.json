@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "DXn2jRzeQkA",
+      "videoId": "DXn2jRzeQkA",
+      "title": "VOCÊ NÃO TEM QUE ESTAR GRUDADA NO SEU MARIDO 24h por dia …",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/DXn2jRzeQkA/hqdefault.jpg",
+      "publishedAt": "2026-10-20T11:00:04Z"
+    },
+    {
       "id": "ei5917MBvhk",
       "videoId": "ei5917MBvhk",
       "title": "Vocês estão juntos mas parecem separados.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/HwPxL4O0GUk/hqdefault.jpg",
       "publishedAt": "2026-10-16T15:00:22Z"
-    },
-    {
-      "id": "y8dlKLED1iQ",
-      "videoId": "y8dlKLED1iQ",
-      "title": "Cresceu sem aprender o básico…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/y8dlKLED1iQ/hqdefault.jpg",
-      "publishedAt": "2026-10-14T11:00:25Z"
     }
   ],
-  "lastUpdated": "2026-10-20T07:49:23.236Z"
+  "lastUpdated": "2026-10-21T07:53:09.624Z"
 }
