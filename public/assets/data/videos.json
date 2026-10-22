@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "nP9OrFpTyQg",
+      "videoId": "nP9OrFpTyQg",
+      "title": "Vamo jogar isso embaixo do tapete e seguir…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/nP9OrFpTyQg/hqdefault.jpg",
+      "publishedAt": "2026-10-21T11:00:31Z"
+    },
+    {
       "id": "DXn2jRzeQkA",
       "videoId": "DXn2jRzeQkA",
       "title": "VOCÊ NÃO TEM QUE ESTAR GRUDADA NO SEU MARIDO 24h por dia …",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/6pi51_-B84E/hqdefault.jpg",
       "publishedAt": "2026-10-17T11:00:38Z"
-    },
-    {
-      "id": "HwPxL4O0GUk",
-      "videoId": "HwPxL4O0GUk",
-      "title": "Prefere brigar pelo erro do que admitir a necessidade de mudança.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/HwPxL4O0GUk/hqdefault.jpg",
-      "publishedAt": "2026-10-16T15:00:22Z"
     }
   ],
-  "lastUpdated": "2026-10-21T07:53:09.624Z"
+  "lastUpdated": "2026-10-22T07:49:21.429Z"
 }
