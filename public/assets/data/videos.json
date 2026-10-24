@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "J7a6a9nfTyY",
+      "videoId": "J7a6a9nfTyY",
+      "title": "Tão gastando mais do que ganham…",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/J7a6a9nfTyY/hqdefault.jpg",
+      "publishedAt": "2026-10-23T11:00:01Z"
+    },
+    {
       "id": "CuqaL8D3SrQ",
       "videoId": "CuqaL8D3SrQ",
       "title": "“Quando você nasceu eu já era casa!”",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/DXn2jRzeQkA/hqdefault.jpg",
       "publishedAt": "2026-10-20T11:00:04Z"
-    },
-    {
-      "id": "ei5917MBvhk",
-      "videoId": "ei5917MBvhk",
-      "title": "Vocês estão juntos mas parecem separados.",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/ei5917MBvhk/hqdefault.jpg",
-      "publishedAt": "2026-10-19T11:00:02Z"
     }
   ],
-  "lastUpdated": "2026-10-23T07:48:20.938Z"
+  "lastUpdated": "2026-10-24T07:29:59.401Z"
 }
