@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "kyhGKoBuAy0",
+      "videoId": "kyhGKoBuAy0",
+      "title": "Esse problema não vai estragar o nosso dia!",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/kyhGKoBuAy0/hqdefault.jpg",
+      "publishedAt": "2026-10-24T11:00:18Z"
+    },
+    {
       "id": "J7a6a9nfTyY",
       "videoId": "J7a6a9nfTyY",
       "title": "Tão gastando mais do que ganham…",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/nP9OrFpTyQg/hqdefault.jpg",
       "publishedAt": "2026-10-21T11:00:31Z"
-    },
-    {
-      "id": "DXn2jRzeQkA",
-      "videoId": "DXn2jRzeQkA",
-      "title": "VOCÊ NÃO TEM QUE ESTAR GRUDADA NO SEU MARIDO 24h por dia …",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/DXn2jRzeQkA/hqdefault.jpg",
-      "publishedAt": "2026-10-20T11:00:04Z"
     }
   ],
-  "lastUpdated": "2026-10-24T07:29:59.401Z"
+  "lastUpdated": "2026-10-25T07:43:40.921Z"
 }
