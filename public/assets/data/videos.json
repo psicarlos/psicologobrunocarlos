@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "aFdKJPR47Ag",
+      "videoId": "aFdKJPR47Ag",
+      "title": "Se é só por dinheiro, sempre dá ruim …",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/aFdKJPR47Ag/hqdefault.jpg",
+      "publishedAt": "2026-10-27T11:00:04Z"
+    },
+    {
       "id": "HcgWB9u-ghI",
       "videoId": "HcgWB9u-ghI",
       "title": "Não faço milagre !",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/J7a6a9nfTyY/hqdefault.jpg",
       "publishedAt": "2026-10-23T11:00:01Z"
-    },
-    {
-      "id": "CuqaL8D3SrQ",
-      "videoId": "CuqaL8D3SrQ",
-      "title": "“Quando você nasceu eu já era casa!”",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/CuqaL8D3SrQ/hqdefault.jpg",
-      "publishedAt": "2026-10-22T23:00:03Z"
     }
   ],
-  "lastUpdated": "2026-10-27T08:10:04.337Z"
+  "lastUpdated": "2026-10-28T08:49:53.862Z"
 }
