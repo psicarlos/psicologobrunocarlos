@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "MI31Qe0dLuY",
+      "videoId": "MI31Qe0dLuY",
+      "title": "Aos parentes e conhecidos de plantão",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/MI31Qe0dLuY/hqdefault.jpg",
+      "publishedAt": "2026-10-29T11:00:40Z"
+    },
+    {
       "id": "aFdKJPR47Ag",
       "videoId": "aFdKJPR47Ag",
       "title": "Se é só por dinheiro, sempre dá ruim …",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/kyhGKoBuAy0/hqdefault.jpg",
       "publishedAt": "2026-10-24T11:00:18Z"
-    },
-    {
-      "id": "J7a6a9nfTyY",
-      "videoId": "J7a6a9nfTyY",
-      "title": "Tão gastando mais do que ganham…",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/J7a6a9nfTyY/hqdefault.jpg",
-      "publishedAt": "2026-10-23T11:00:01Z"
     }
   ],
-  "lastUpdated": "2026-10-29T08:44:23.371Z"
+  "lastUpdated": "2026-10-30T08:55:37.641Z"
 }
