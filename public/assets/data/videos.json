@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "4yAWnDPLk3c",
+      "videoId": "4yAWnDPLk3c",
+      "title": "Novo relacionamento após um luto por alguém que ama.",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/4yAWnDPLk3c/hqdefault.jpg",
+      "publishedAt": "2026-10-30T11:00:19Z"
+    },
+    {
       "id": "MI31Qe0dLuY",
       "videoId": "MI31Qe0dLuY",
       "title": "Aos parentes e conhecidos de plantão",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/HcgWB9u-ghI/hqdefault.jpg",
       "publishedAt": "2026-10-26T11:00:35Z"
-    },
-    {
-      "id": "kyhGKoBuAy0",
-      "videoId": "kyhGKoBuAy0",
-      "title": "Esse problema não vai estragar o nosso dia!",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/kyhGKoBuAy0/hqdefault.jpg",
-      "publishedAt": "2026-10-24T11:00:18Z"
     }
   ],
-  "lastUpdated": "2026-10-30T08:55:37.641Z"
+  "lastUpdated": "2026-10-31T08:38:23.655Z"
 }
