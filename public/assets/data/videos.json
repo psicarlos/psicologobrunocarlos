@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "czRh_sjX-3Q",
+      "videoId": "czRh_sjX-3Q",
+      "title": "23 de setembro de 2026",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/czRh_sjX-3Q/hqdefault.jpg",
+      "publishedAt": "2026-10-31T11:00:20Z"
+    },
+    {
       "id": "4yAWnDPLk3c",
       "videoId": "4yAWnDPLk3c",
       "title": "Novo relacionamento após um luto por alguém que ama.",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/aFdKJPR47Ag/hqdefault.jpg",
       "publishedAt": "2026-10-27T11:00:04Z"
-    },
-    {
-      "id": "HcgWB9u-ghI",
-      "videoId": "HcgWB9u-ghI",
-      "title": "Não faço milagre !",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/HcgWB9u-ghI/hqdefault.jpg",
-      "publishedAt": "2026-10-26T11:00:35Z"
     }
   ],
-  "lastUpdated": "2026-10-31T08:38:23.655Z"
+  "lastUpdated": "2026-11-01T09:29:25.783Z"
 }
