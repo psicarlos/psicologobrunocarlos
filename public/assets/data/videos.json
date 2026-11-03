@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "LSX_3VrUZio",
+      "videoId": "LSX_3VrUZio",
+      "title": "Decisões tomadas a dois",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/LSX_3VrUZio/hqdefault.jpg",
+      "publishedAt": "2026-11-02T11:00:16Z"
+    },
+    {
       "id": "czRh_sjX-3Q",
       "videoId": "czRh_sjX-3Q",
       "title": "23 de setembro de 2026",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/MI31Qe0dLuY/hqdefault.jpg",
       "publishedAt": "2026-10-29T11:00:40Z"
-    },
-    {
-      "id": "aFdKJPR47Ag",
-      "videoId": "aFdKJPR47Ag",
-      "title": "Se é só por dinheiro, sempre dá ruim …",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/aFdKJPR47Ag/hqdefault.jpg",
-      "publishedAt": "2026-10-27T11:00:04Z"
     }
   ],
-  "lastUpdated": "2026-11-02T09:45:39.610Z"
+  "lastUpdated": "2026-11-03T09:49:05.360Z"
 }
