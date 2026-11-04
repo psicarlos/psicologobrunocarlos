@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "j76xFU0bxq8",
+      "videoId": "j76xFU0bxq8",
+      "title": "Se acostumaram com essa vidinha …",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/j76xFU0bxq8/hqdefault.jpg",
+      "publishedAt": "2026-11-03T11:00:11Z"
+    },
+    {
       "id": "LSX_3VrUZio",
       "videoId": "LSX_3VrUZio",
       "title": "Decisões tomadas a dois",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/4yAWnDPLk3c/hqdefault.jpg",
       "publishedAt": "2026-10-30T11:00:19Z"
-    },
-    {
-      "id": "MI31Qe0dLuY",
-      "videoId": "MI31Qe0dLuY",
-      "title": "Aos parentes e conhecidos de plantão",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/MI31Qe0dLuY/hqdefault.jpg",
-      "publishedAt": "2026-10-29T11:00:40Z"
     }
   ],
-  "lastUpdated": "2026-11-03T09:49:05.360Z"
+  "lastUpdated": "2026-11-04T09:36:57.590Z"
 }
