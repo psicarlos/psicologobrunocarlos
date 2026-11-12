@@ -1,6 +1,22 @@
 {
   "videos": [
     {
+      "id": "EqJqC0T35Ug",
+      "videoId": "EqJqC0T35Ug",
+      "title": "11 de novembro de 2026",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/EqJqC0T35Ug/hqdefault.jpg",
+      "publishedAt": "2026-11-11T23:25:27Z"
+    },
+    {
+      "id": "qGpiA-NENL4",
+      "videoId": "qGpiA-NENL4",
+      "title": "Famílias reais de verdade",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/qGpiA-NENL4/hqdefault.jpg",
+      "publishedAt": "2026-11-11T11:00:12Z"
+    },
+    {
       "id": "k1CSt99uljk",
       "videoId": "k1CSt99uljk",
       "title": "12 de outubro de 2026",
@@ -15,23 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/pHt4hiLU1nM/hqdefault.jpg",
       "publishedAt": "2026-11-09T11:00:39Z"
-    },
-    {
-      "id": "OrXF9xw9sJo",
-      "videoId": "OrXF9xw9sJo",
-      "title": "Relacionamento é uma via de mão dupla",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/OrXF9xw9sJo/hqdefault.jpg",
-      "publishedAt": "2026-11-07T11:00:15Z"
-    },
-    {
-      "id": "NT8gdhEzQY4",
-      "videoId": "NT8gdhEzQY4",
-      "title": "Terapia de casal",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/NT8gdhEzQY4/hqdefault.jpg",
-      "publishedAt": "2026-11-06T11:00:08Z"
     }
   ],
-  "lastUpdated": "2026-11-11T09:41:47.471Z"
+  "lastUpdated": "2026-11-12T10:01:42.569Z"
 }
