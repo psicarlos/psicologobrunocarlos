@@ -1,6 +1,14 @@
 {
   "videos": [
     {
+      "id": "CbnSLaNI0Vw",
+      "videoId": "CbnSLaNI0Vw",
+      "title": "Intimidade as vezes é uma droga …",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/CbnSLaNI0Vw/hqdefault.jpg",
+      "publishedAt": "2026-11-13T11:00:24Z"
+    },
+    {
       "id": "dl-9U450R-c",
       "videoId": "dl-9U450R-c",
       "title": "Inseguranças …",
@@ -23,15 +31,7 @@
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/qGpiA-NENL4/hqdefault.jpg",
       "publishedAt": "2026-11-11T11:00:12Z"
-    },
-    {
-      "id": "k1CSt99uljk",
-      "videoId": "k1CSt99uljk",
-      "title": "12 de outubro de 2026",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/k1CSt99uljk/hqdefault.jpg",
-      "publishedAt": "2026-11-10T11:00:03Z"
     }
   ],
-  "lastUpdated": "2026-11-13T09:50:13.685Z"
+  "lastUpdated": "2026-11-14T09:13:12.178Z"
 }
